@@ -24,7 +24,7 @@ public class InWorkTendersFragment extends PageFather {
 
 
         InWorkTendersFragment fragment = new InWorkTendersFragment();
-        fragment.setContext(context);
+//        fragment.setContext(context);
         fragment.setTitle(context.getString(R.string.tab_tenders_in_work_fragment));
 
 

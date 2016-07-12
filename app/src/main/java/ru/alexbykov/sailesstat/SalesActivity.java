@@ -29,6 +29,7 @@ public class SalesActivity extends FatherActivity {
     void setupTabs() {
 
         TabFragmentAdapter adapter = new TabFragmentAdapter(this, getSupportFragmentManager());
+
         adapter.initTabs(PlanFragment.getInstance(this), ManagersFragment.getInstance(this));
 
         viewPager.setAdapter(adapter);

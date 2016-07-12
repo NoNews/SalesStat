@@ -28,7 +28,7 @@ public class StatTendersFragment extends PageFather {
 
 
         StatTendersFragment fragment = new StatTendersFragment();
-        fragment.setContext(context);
+//        fragment.setContext(context);
         fragment.setTitle(context.getString(R.string.tab_tenders_stat_fragment));
 
         return fragment;

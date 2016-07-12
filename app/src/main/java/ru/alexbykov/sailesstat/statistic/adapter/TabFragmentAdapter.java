@@ -21,8 +21,6 @@ public class TabFragmentAdapter extends FragmentPagerAdapter {
     private Map<Integer, PageFather> tabs;
 
 
-
-
     public TabFragmentAdapter(Context context, FragmentManager fm) {
         super(fm);
         this.context = context;

@@ -1,6 +1,5 @@
 package ru.alexbykov.sailesstat;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
@@ -37,14 +36,12 @@ public abstract class FatherActivity extends AppCompatActivity {
 
         initTogle();
 
-        navigationView.setCheckedItem(idMenuItem);
-
+        navigationView.setCheckedItem(idMenuItem); //set check insert item
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(MenuItem item) {
 
                 drawerLayout.closeDrawers();
-
                 switch (item.getItemId()) {
 
                     case R.id.nav_menu_sales:
@@ -64,9 +61,6 @@ public abstract class FatherActivity extends AppCompatActivity {
                 return false;
             }
         });
-
-
-
 
 
     }
@@ -94,8 +88,6 @@ public abstract class FatherActivity extends AppCompatActivity {
 
 
     private void startSalesActivity() {
-
-
 
 
         Intent salesActivity = new Intent(this, SalesActivity.class);

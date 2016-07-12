@@ -29,7 +29,7 @@ public class PlanFragment extends PageFather {
 
 
         PlanFragment fragment = new PlanFragment();
-        fragment.setContext(context);
+//        fragment.setContext(context);
         fragment.setTitle(context.getString(R.string.tab_plan_stat_fragment));
 
         return fragment;
