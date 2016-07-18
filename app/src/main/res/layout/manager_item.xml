@@ -30,7 +30,8 @@
                 android:id="@+id/managerName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="8pt" />
+                android:textSize="8pt"
+                />
 
 
             <TextView
@@ -38,7 +39,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentRight="true"
-                android:textSize="8pt" />
+                android:textSize="8pt"
+                />
 
 
         </RelativeLayout>

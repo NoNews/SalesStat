@@ -24,9 +24,12 @@ public class SalesActivity extends FatherActivity {
         setupNavigationView(R.id.nav_menu_sales);
         setupTabs();
 
+
     }
 
     void setupTabs() {
+
+
 
         TabFragmentAdapter adapter = new TabFragmentAdapter(this, getSupportFragmentManager());
 

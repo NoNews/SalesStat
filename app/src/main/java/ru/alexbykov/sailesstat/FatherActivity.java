@@ -11,6 +11,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import butterknife.BindView;
+import butterknife.OnClick;
+import butterknife.OnItemSelected;
 
 
 public abstract class FatherActivity extends AppCompatActivity {
@@ -37,6 +39,9 @@ public abstract class FatherActivity extends AppCompatActivity {
         initTogle();
 
         navigationView.setCheckedItem(idMenuItem); //set check insert item
+
+
+
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(MenuItem item) {
@@ -81,9 +86,7 @@ public abstract class FatherActivity extends AppCompatActivity {
 
 
     protected void setupToolBar(int idTitle) {
-
         toolbar.setTitle(idTitle);
-
     }
 
 
