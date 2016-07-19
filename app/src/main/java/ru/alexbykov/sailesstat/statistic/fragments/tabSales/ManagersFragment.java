@@ -2,21 +2,22 @@ package ru.alexbykov.sailesstat.statistic.fragments.tabSales;
 
 
 import android.content.Context;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
-import retrofit2.Retrofit;
-import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
-import retrofit2.converter.jackson.JacksonConverterFactory;
+import butterknife.BindView;
+import butterknife.ButterKnife;
 import rx.Observable;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
@@ -25,7 +26,7 @@ import ru.alexbykov.sailesstat.R;
 import ru.alexbykov.sailesstat.remote.dto.ApiObject;
 import ru.alexbykov.sailesstat.remote.dto.ServiceGenerator;
 import ru.alexbykov.sailesstat.statistic.adapter.ManagerListAdapter;
-import ru.alexbykov.sailesstat.remote.dto.ManagerDTO;
+import ru.alexbykov.sailesstat.remote.dto.models.ManagerDTO;
 import ru.alexbykov.sailesstat.statistic.fragments.PageFather;
 
 
@@ -37,19 +38,22 @@ import rx.schedulers.Schedulers;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class ManagersFragment extends PageFather {
+public class ManagersFragment extends PageFather implements SwipeRefreshLayout.OnRefreshListener {
 
 
     private static final int LAYOUT = R.layout.fragment_managers;
 
 
+    @BindView(R.id.managersRecyclerView)
+    RecyclerView managersRecyclerView;
+
+    @BindView(R.id.managersSwipe)
+    SwipeRefreshLayout managersSwipe;
+
     public static ManagersFragment getInstance(Context context) {
 
         ManagersFragment fragment = new ManagersFragment();
-//        fragment.setContext(context);
         fragment.setTitle(context.getString(R.string.tab_managers_fragment));
-
-
         return fragment;
     }
 
@@ -59,11 +63,13 @@ public class ManagersFragment extends PageFather {
                              Bundle savedInstanceState) {
 
         view = inflater.inflate(LAYOUT, container, false);
+        ButterKnife.bind(this, view);
 
+        managersSwipe.setOnRefreshListener(this);
+        managersSwipe.setColorSchemeColors(Color.BLUE, Color.GREEN, Color.RED, Color.CYAN);
 
         //from JSON
         getRemoteManagers();
-
 
         return view;
     }
@@ -81,8 +87,6 @@ public class ManagersFragment extends PageFather {
                 .subscribe(new Subscriber<List<ManagerDTO>>() {
                     @Override
                     public void onCompleted() {
-
-
                         //do nothing
                     }
 
@@ -90,28 +94,47 @@ public class ManagersFragment extends PageFather {
                     public void onError(Throwable e) {
 
                         Log.e("OnError", e.getMessage());
+
+                        managersSwipe.setRefreshing(false);
+
+                        Toast.makeText(getContext(),R.string.toast_connection_false, Toast.LENGTH_SHORT).show();
+
                     }
 
                     @Override
                     public void onNext(List<ManagerDTO> managers) {
 
-                        initRecyclerView(managers);
+                        Log.e("OnNext", "Connect is OK");
+
+                        sortManagers(managers);
+
+                        ManagerListAdapter adapter = new ManagerListAdapter(managers);
+                        initRecyclerView(adapter);
+                        managersSwipe.setRefreshing(false);
+
                     }
                 });
-        managers.cache();
 
 
     }
 
-    private void initRecyclerView(List<ManagerDTO> managers) {
+    private void initRecyclerView(ManagerListAdapter adapter) {
 
-        RecyclerView managersRecyclerView = (RecyclerView) view.findViewById(R.id.managersRecyclerView);
         managersRecyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
-        managersRecyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
+        managersRecyclerView.setAdapter(adapter);
 
-        sortManagers(managers);
-        managersRecyclerView.setAdapter(new ManagerListAdapter(managers));
     }
+
+
+    @Override
+    public void onRefresh() {
+
+        managersSwipe.setRefreshing(true);
+        getRemoteManagers();
+
+
+    }
+
 
 
     private List<ManagerDTO> sortManagers(List<ManagerDTO> managers) {

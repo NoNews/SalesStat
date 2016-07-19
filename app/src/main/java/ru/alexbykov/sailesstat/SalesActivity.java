@@ -15,6 +15,10 @@ public class SalesActivity extends FatherActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
+
+
         setTheme(R.style.AppDefault);
         super.onCreate(savedInstanceState);
         setContentView(LAYOUT);

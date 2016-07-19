@@ -1,27 +1,18 @@
 package ru.alexbykov.sailesstat.statistic.adapter;
 
-import android.content.Context;
 import android.support.v7.widget.CardView;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 import ru.alexbykov.sailesstat.R;
-import ru.alexbykov.sailesstat.remote.dto.ApiObject;
-import ru.alexbykov.sailesstat.remote.dto.ManagerDTO;
-import ru.alexbykov.sailesstat.remote.dto.ServiceGenerator;
+import ru.alexbykov.sailesstat.remote.dto.models.ManagerDTO;
 
 /**
  * Created by Alexey on 12.07.2016.

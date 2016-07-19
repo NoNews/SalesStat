@@ -11,8 +11,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import butterknife.BindView;
-import butterknife.OnClick;
-import butterknife.OnItemSelected;
 
 
 public abstract class FatherActivity extends AppCompatActivity {
@@ -72,7 +70,6 @@ public abstract class FatherActivity extends AppCompatActivity {
 
     private void initTogle() {
 
-
         ActionBarDrawerToggle togle =
                 new ActionBarDrawerToggle(
                         this,
@@ -91,6 +88,7 @@ public abstract class FatherActivity extends AppCompatActivity {
 
 
     private void startSalesActivity() {
+
 
 
         Intent salesActivity = new Intent(this, SalesActivity.class);

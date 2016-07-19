@@ -1,4 +1,4 @@
-package ru.alexbykov.sailesstat.remote.dto;
+package ru.alexbykov.sailesstat.remote.dto.models;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 

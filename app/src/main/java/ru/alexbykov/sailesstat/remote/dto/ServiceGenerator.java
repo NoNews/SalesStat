@@ -12,8 +12,6 @@ public class ServiceGenerator {
 
     private static final String URL = "https://api.myjson.com/bins/";
 
-
-
     private static Retrofit.Builder builder =
             new Retrofit.Builder()
                     .addCallAdapterFactory(RxJavaCallAdapterFactory.createWithScheduler(Schedulers.io()))
