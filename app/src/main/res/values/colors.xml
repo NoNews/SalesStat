@@ -4,4 +4,13 @@
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorWhitePrimary">#E0E0E0</color>
+
+
+    <!--Colors for charts-->
+
+
+    <color name="planPositive">#4CAF50</color>
+    <color name="planNegative">#757575</color>
+
+
 </resources>

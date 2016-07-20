@@ -3,15 +3,13 @@ package ru.alexbykov.sailesstat.statistic.fragments.tabSales;
 
 import android.content.Context;
 import android.graphics.Color;
-import android.os.Build;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RelativeLayout;
+import android.widget.TextView;
 
-import com.github.mikephil.charting.animation.Easing;
+import com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar;
 import com.github.mikephil.charting.charts.PieChart;
 import com.github.mikephil.charting.components.Legend;
 import com.github.mikephil.charting.data.PieData;
@@ -27,9 +25,7 @@ import butterknife.ButterKnife;
 import ru.alexbykov.sailesstat.R;
 import ru.alexbykov.sailesstat.statistic.fragments.PageFather;
 
-/**
- * A simple {@link Fragment} subclass.
- */
+
 public class PlanFragment extends PageFather {
 
     private static final int LAYOUT = R.layout.fragment_plan;
@@ -38,8 +34,12 @@ public class PlanFragment extends PageFather {
     PieChart costsPieChart;
 
 
+    @BindView(R.id.progressPlan)
+    RoundCornerProgressBar progressPlan;
 
-    RelativeLayout planRelativeLayout;
+
+    @BindView(R.id.percentPlanTextView)
+    TextView percentPlanTextView;
 
 
     public static PlanFragment getInstance(Context context) {
@@ -52,9 +52,7 @@ public class PlanFragment extends PageFather {
         PlanFragment fragment = new PlanFragment();
         fragment.setTitle(context.getString(R.string.tab_plan_stat_fragment));
 
-
         return fragment;
-
 
     }
 
@@ -65,98 +63,109 @@ public class PlanFragment extends PageFather {
         view = inflater.inflate(LAYOUT, container, false);
         ButterKnife.bind(this, view);
 
-        initCosts();
 
-        addData();
+        initCostsChartPie(95.63);
+        initProgressPlan(61.54);
+
 
         return view;
 
     }
 
 
+    private void initProgressPlan(double plan) {
 
-    private void initCosts() {
-
-
-        //Наименования и разрешения
-        costsPieChart.setUsePercentValues(true);
-        costsPieChart.setCenterText("Пока что расходы не покрыты");
-        costsPieChart.setDescription("Покрытие расходов компании 1.01.2017");
-        costsPieChart.setDrawSliceText(false);
-        costsPieChart.setDrawSlicesUnderHole(false);
-        costsPieChart.setTouchEnabled(false);
+        String textPlan = "";
 
 
+        progressPlan.setMax(100);
+        progressPlan.setProgress((float) plan);
 
-//        costsPieChart.animateX(1500, Easing.EasingOption.EaseInOutBounce);
-//        costsPieChart.animateY(1500, Easing.EasingOption.EaseInOutBounce);
-
-//        costsPieChart.animateXY(1500,);
-
-
-        costsPieChart.setClickable(false);
-        costsPieChart.setLongClickable(false);
+        progressPlan.getProgressColor();
+        progressPlan.getProgressBackgroundColor();
+        progressPlan.getMax();
+        progressPlan.getProgress();
 
 
+        if (plan >= 100) textPlan = "Ура! План выполнен на " + plan;
+        else textPlan = String.valueOf(plan);
 
-        //Папаметры отверстия
-        costsPieChart.setDrawHoleEnabled(true);
-        costsPieChart.setHoleColor(Color.WHITE);
-        costsPieChart.setHoleRadius(55);
+        percentPlanTextView.setText(textPlan + " %");
 
-//        costsPieChart.setTransparentCircleRadius(1); //?
-
-
-        //Параметры обозначений
-        Legend legend = costsPieChart.getLegend();
-        legend.setPosition(Legend.LegendPosition.RIGHT_OF_CHART);
-        legend.setTextSize(14);
+    }
 
 
-        //Создание массива с отображаемыми значениями и процентрами заполнения
+    private void initCostsChartPie(double cover) {
+        setGeneralSettings();
+        setHoleSettings(cover);
+        setLegendSettings();
+        setDataAndColors(cover);
+    }
 
+    private void setDataAndColors(double cover) {
         List<PieEntry> entries = new ArrayList<>();
-
-
-        entries.add(new PieEntry(60, "Покрыто"));
-        entries.add(new PieEntry(40, "Не покрыто"));
-
-
-
+        entries.add(new PieEntry((float) cover, "Покрыто"));
+        entries.add(new PieEntry((float) (100 - cover), "Не покрыто"));
         PieDataSet dataset = new PieDataSet(entries, "");
-
-
-        //Цвета. Не забыть отрефакторить это дерьмо потом..
-
-        getChartColors();
 
 
         //Добавили цвета и форматирование в процентах
         dataset.setColors(getChartColors());
         dataset.setValueFormatter(new PercentFormatter());
-
-        dataset.setValueTextSize(16);
+        dataset.setValueTextSize(15);
 
         PieData data = new PieData(dataset);
         costsPieChart.setData(data);
+    }
+
+    private void setLegendSettings() {
+        Legend legend = costsPieChart.getLegend();
+        legend.setPosition(Legend.LegendPosition.RIGHT_OF_CHART);
+        legend.setTextSize(14);
+    }
+
+    private void setHoleSettings(double cover) {
+
+        String holeMessage;
+
+        if (cover != 100)
+            holeMessage = "01.01.2017  \n" +
+                    " Расходы не покрыты!";
+        else holeMessage = "01.01.2017 \n" +
+                " Расходы покрыты ";
+
+        costsPieChart.setDrawHoleEnabled(true);
+        costsPieChart.setHoleColor(Color.LTGRAY);
+        costsPieChart.setHoleRadius(55);
+
+        costsPieChart.setCenterText(holeMessage);
+        costsPieChart.setCenterTextSize(16);
+    }
+
+    private void setGeneralSettings() {
 
 
+        costsPieChart.setUsePercentValues(true);
+        costsPieChart.setDescription("");
+        costsPieChart.setDrawSliceText(false);
+        costsPieChart.setDrawSlicesUnderHole(false);
+        costsPieChart.setTouchEnabled(false);
+        costsPieChart.animateXY(0, 2500);
+
+
+        costsPieChart.setClickable(false);
+        costsPieChart.setLongClickable(false);
     }
 
     private ArrayList<Integer> getChartColors() {
 
         ArrayList<Integer> colors = new ArrayList<>();
-        colors.add(Color.GREEN);
+
+        colors.add(Color.rgb(76, 175, 80)); //it's rgb green
         colors.add(Color.GRAY);
 
 
         return colors;
-    }
-
-
-    private void addData() {
-
-
     }
 
 
