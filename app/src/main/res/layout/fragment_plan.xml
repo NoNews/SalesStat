@@ -2,21 +2,62 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".statistic.fragments.tabSales.PlanFragment">
 
     <!-- TODO: Update blank fragment layout -->
 
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Покрытие расходов"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            />
 
 
 
         <com.github.mikephil.charting.charts.PieChart
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
             android:id="@+id/costsPieChart"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="20"
             />
 
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Выполнение плана"
+            android:layout_gravity="center"
+            />
+
+        <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+            android:layout_width="300dp"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:padding ="5dp"
+            android:layout_gravity="center"
+            android:textDirection="75"
+
+            app:rcRadius="5dp"
+            app:rcBackgroundPadding="0dp"
+            app:rcReverse="false"
+            android:id="@+id/progress_1"
+
+            />
+
+
+    </LinearLayout>
 
 
 </FrameLayout>
