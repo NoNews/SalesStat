@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+<group android:checkableBehavior="all">
+    <item
+
+        android:id="@+id/nav_menu_sales"
+        android:title="@string/nav_menu_sales"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_chart_areaspline"
+        android:checked="false"
+        />
+
+    <item
+        android:id="@+id/nav_menu_tenders"
+        android:title="@string/nav_menu_tenders"
+        android:orderInCategory="2"
+        android:icon="@mipmap/ic_buffer"
+        android:checked="false"
+        />
+
+
+    <item
+        android:id="@+id/nav_menu_shipments"
+        android:title="@string/nav_menu_shipments"
+        android:orderInCategory="3"
+        android:icon="@mipmap/ic_truck"
+        android:checked="false"
+        />
+
+
+</group>
+
+</menu>

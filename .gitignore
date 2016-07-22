@@ -6,3 +6,8 @@
 .DS_Store
 /build
 /captures
+libs/
+src/main/res/Adapter/
+src/main/res/Fragments/
+src/main/res/layout-v17/
+src/main/res/tabShipments/

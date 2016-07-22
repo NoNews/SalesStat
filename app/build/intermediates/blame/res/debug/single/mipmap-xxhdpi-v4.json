@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_buffer.png",
+        "source": "V:\\android\\SailesStat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_buffer.png"
+    },
+    {
+        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "V:\\android\\SailesStat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\round_corner_progress_icon.png",
+        "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.akexorcist\\RoundCornerProgressBar\\2.0.3\\res\\mipmap-xxhdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_chart_areaspline.png",
+        "source": "V:\\android\\SailesStat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chart_areaspline.png"
+    },
+    {
+        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_truck.png",
+        "source": "V:\\android\\SailesStat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_truck.png"
+    }
+]
