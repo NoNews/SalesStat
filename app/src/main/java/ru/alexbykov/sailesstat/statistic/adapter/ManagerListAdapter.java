@@ -2,6 +2,7 @@ package ru.alexbykov.sailesstat.statistic.adapter;
 
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -55,6 +56,9 @@ public class ManagerListAdapter extends RecyclerView.Adapter<ManagerListAdapter.
 
     @Override
     public int getItemCount() {
+
+
+//        Log.e("LIST ADAPTER: I HAVE COLLECTION WITH SIZE", String.valueOf(+managers.size()));
         return managers.size();
     }
 

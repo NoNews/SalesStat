@@ -32,6 +32,9 @@ public abstract class FatherActivity extends AppCompatActivity {
     TabLayout tabLayout;
 
 
+    String TAG="FATHER_ACTIVITY_LOG";
+
+
     protected void setupNavigationView(int idMenuItem) {
 
         initTogle();
@@ -89,19 +92,14 @@ public abstract class FatherActivity extends AppCompatActivity {
 
     private void startSalesActivity() {
 
-
-
         Intent salesActivity = new Intent(this, SalesActivity.class);
         startActivity(salesActivity);
-
-
     }
 
     private void startTendersActivity() {
 
         Intent tendersActivity = new Intent(this, TendersActivity.class);
         startActivity(tendersActivity);
-
 
     }
 

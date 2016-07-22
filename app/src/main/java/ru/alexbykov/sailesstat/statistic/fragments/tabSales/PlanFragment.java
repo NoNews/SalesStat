@@ -75,6 +75,7 @@ public class PlanFragment extends PageFather {
 
     private void initProgressPlan(double plan) {
 
+
         String textPlan = "";
 
 
