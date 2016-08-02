@@ -1,32 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="21"
+    abi="x86"
+    api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="50047401319999" >
+    timestamp="80635328001021"
+    verifier="FIELD_REMOVED" >
 
     <task
         name="javac"
-        duration="572" />
+        duration="869" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="224" />
+        duration="53" />
     <task
         name="verifier"
-        duration="44" />
+        duration="37" />
 
     <artifact
-        location="V:\android\SailesStat\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
 
-    <build timestamp="50047401319999" >
+    <build timestamp="78482458704209" >
         <artifact
             location="V:\android\SailesStat\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="78959639312042" >
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-jackson-2.1.0_fb2f5790154a81f89b59fa9475c841489aa12048\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_8766a72837f93b3431c3850d6f8b7db9f268821a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.7.0_7ca878bfbcac373c0abd0f8db967beedc4f2d50f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_a8eb97e4d985983e20b47dc6def5331594cf0d7c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_8b8f8e10a24e9cbb87d2817f40dae9b260cf7282\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.1.0_ba06f0ea21d2a585450c9fb25457676f0e115968\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_b8b5a990379e0c2ac791ab0c60e6d287203675f2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_0274d8817f144b6caeef34836695e068a055782a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-1.1.0_345fde9c87a113cc7b13ef0bc379b090b0fd6912\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-1.1.0_20cc540f7b9ee78f030fb133197670b4fabe92df\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.0-beta1_3b72251226f6ffaf43b3c25849eea879d2b55b76\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_6836fcb43ed2de008a5ece0a6c80bfe80babf58c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.2_49238a37c023157b6b9c7319cdaaa2cef5b97165\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.akexorcist-RoundCornerProgressBar-2.0.3_185e6819d09766ec896e03f7466bed30280783aa\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.1.0_8235e6ed1a224a7cff79b1e0e63f739474e0008a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_5de1f4990c3728db7199bf5c90bfdb9def350a94\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.7.2_16e021f670fa80a4e5bff4cbb34bd38f737d85f8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.3_b8faf8230496dcc33979854836acf5ddd085c277\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_7d4478fe63824ec180d999bac79eed2e00dfbdcd\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_04c4d80e6e44a7b94ad5796f30419a8aafdc4608\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_866858d020e75cefeef6ab6b91a11fd0f01f1cad\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_49ad66e001493b50a4c053b5bd9f87269fbc7ec1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5b1eb6452f5d07bf03cb3a296514b31913dbca07\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_bb32e1ecd443ace6a7a6ef2db7a64f3647077cc0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_2acecaa0b38c72893da3b8472160ce3e0eb85487\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.7.2_dda0286f28d26c1864b8b07e760d8e17be822281\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_88f27537c1bceae88b9a0d4e5f96b37399657141\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c9ee91c2b218eb66b40586aecc754917bd2fb476\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="80635328001021"
+        verifier="FIELD_REMOVED" >
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

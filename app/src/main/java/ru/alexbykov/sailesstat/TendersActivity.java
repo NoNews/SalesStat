@@ -27,7 +27,7 @@ public class TendersActivity extends FatherActivity {
     }
 
     @Override
-    void setupTabs() {
+    protected void setupTabs() {
 
         TabFragmentAdapter adapter = new TabFragmentAdapter(this, getSupportFragmentManager());
         adapter.initTabs(InWorkTendersFragment.getInstance(this), StatTendersFragment.getInstance(this));

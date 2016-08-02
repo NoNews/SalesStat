@@ -14,8 +14,8 @@ import android.view.ViewGroup;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import ru.alexbykov.sailesstat.remote.dto.Cache;
-import ru.alexbykov.sailesstat.remote.dto.RemoteManagerHelper;
+import ru.alexbykov.sailesstat.local.Cache;
+import ru.alexbykov.sailesstat.remote.dto.presenter.RemoteManagerPresenter;
 
 import ru.alexbykov.sailesstat.R;
 import ru.alexbykov.sailesstat.statistic.fragments.PageFather;
@@ -30,7 +30,6 @@ public class ManagersFragment extends PageFather implements SwipeRefreshLayout.O
     private static final int LAYOUT = R.layout.fragment_managers;
 
 
-    String TAG = "ManagersFragment";
 
     @BindView(R.id.managersRecyclerView)
     RecyclerView managersRecyclerView;
@@ -59,20 +58,21 @@ public class ManagersFragment extends PageFather implements SwipeRefreshLayout.O
         return view;
     }
 
-    private void initRemoteHelper() {
-        RemoteManagerHelper helper = getRemoteManagerHelper();
-        if (Cache.getManagers().isEmpty()) helper.getManagersFromJSON();
-        else helper.initRecyclerView(Cache.getManagers());
-    }
-
     private void initManagersSwipe() {
         managersSwipe.setOnRefreshListener(this);
         managersSwipe.setColorSchemeColors(Color.BLUE, Color.GREEN, Color.RED, Color.CYAN);
     }
 
+    private void initRemoteHelper() {
+        RemoteManagerPresenter helper = getRemoteManagerHelper();
+        if (Cache.getManagers().isEmpty()) helper.getManagersFromJSON();
+
+        else helper.initRecyclerView(Cache.getManagers());
+    }
+
     @NonNull
-    private RemoteManagerHelper getRemoteManagerHelper() {
-        return new RemoteManagerHelper(getContext(), managersRecyclerView, managersSwipe);
+    private RemoteManagerPresenter getRemoteManagerHelper() {
+        return new RemoteManagerPresenter(getContext(), managersRecyclerView, managersSwipe);
     }
 
     @Override

@@ -79,6 +79,8 @@ ADDED from V:\android\SailesStat\app\src\main\AndroidManifest.xml:31:9-32:45
 		ADDED from V:\android\SailesStat\app\src\main\AndroidManifest.xml:31:19-52
 uses-sdk
 INJECTED from V:\android\SailesStat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:1.1.0] V:\android\SailesStat\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.1] V:\android\SailesStat\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\AndroidManifest.xml:7:5-43
 MERGED from [com.android.support:appcompat-v7:23.3.0] V:\android\SailesStat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-vector-drawable:23.3.0] V:\android\SailesStat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.3.0] V:\android\SailesStat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43

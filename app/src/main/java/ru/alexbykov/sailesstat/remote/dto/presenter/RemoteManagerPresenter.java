@@ -1,4 +1,4 @@
-package ru.alexbykov.sailesstat.remote.dto;
+package ru.alexbykov.sailesstat.remote.dto.presenter;
 
 import android.content.Context;
 import android.support.v4.widget.SwipeRefreshLayout;
@@ -11,7 +11,12 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+import io.realm.Realm;
 import ru.alexbykov.sailesstat.R;
+import ru.alexbykov.sailesstat.local.RealmHelper;
+import ru.alexbykov.sailesstat.remote.dto.ApiObject;
+import ru.alexbykov.sailesstat.local.Cache;
+import ru.alexbykov.sailesstat.remote.dto.ServiceGenerator;
 import ru.alexbykov.sailesstat.remote.dto.models.ManagerDTO;
 import ru.alexbykov.sailesstat.statistic.adapter.ManagerListAdapter;
 import rx.Observable;
@@ -22,18 +27,14 @@ import rx.schedulers.Schedulers;
 /**
  * Created by Alexey on 21.07.2016.
  */
-public class RemoteManagerHelper {
+public class RemoteManagerPresenter {
 
-//    private static List<ManagerDTO> managers = new ArrayList<>();
-
-
-    public String TAG = "RemoteManagerHelper";
     private Context context;
     private SwipeRefreshLayout managersSwipe;
     private RecyclerView managersRecyclerView;
 
 
-    public RemoteManagerHelper(Context context, RecyclerView managersRecyclerView, SwipeRefreshLayout swipeRefreshLayout) {
+    public RemoteManagerPresenter(Context context, RecyclerView managersRecyclerView, SwipeRefreshLayout swipeRefreshLayout) {
         this.context = context;
         this.managersSwipe = swipeRefreshLayout;
         this.managersRecyclerView = managersRecyclerView;
@@ -44,7 +45,6 @@ public class RemoteManagerHelper {
     public void getManagersFromJSON() {
 
         ApiObject service = ServiceGenerator.createService(ApiObject.class);
-
         Observable<List<ManagerDTO>> managers = service.getManagers();
         managers
                 .subscribeOn(Schedulers.io())
@@ -58,9 +58,14 @@ public class RemoteManagerHelper {
                     @Override
                     public void onError(Throwable e) {
 
+
                         Log.e("OnError", e.getMessage());
-                        managersSwipe.setRefreshing(false);
+
+                        // if connection lost - we try get data from db
+                        //try it later here
+
                         Toast.makeText(context, R.string.toast_connection_false, Toast.LENGTH_SHORT).show();
+                        managersSwipe.setRefreshing(false);
 
                     }
 
@@ -72,6 +77,11 @@ public class RemoteManagerHelper {
                         initRecyclerView(managers);
                         managersSwipe.setRefreshing(false);
 
+
+                        //Copy to db
+                        /*RealmHelper helper = new RealmHelper(context);
+                        helper.copyToRealmOrUpdate(managers);
+                        Log.e("RealmCopy", "it's ok");*/
                     }
                 });
 
@@ -79,24 +89,18 @@ public class RemoteManagerHelper {
     }
 
     public void initRecyclerView(List<ManagerDTO> managers) {
-
         managersRecyclerView.setLayoutManager(new LinearLayoutManager(context));
         managersRecyclerView.setAdapter(new ManagerListAdapter(managers));
-
     }
 
 
-
-
     private List<ManagerDTO> sortManagers(List<ManagerDTO> managers) {
-
         Collections.sort(managers, new Comparator<ManagerDTO>() {
             @Override
             public int compare(ManagerDTO lhs, ManagerDTO rhs) {
                 return rhs.getPlan() - lhs.getPlan();
             }
         });
-
 
         return managers;
     }

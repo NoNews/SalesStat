@@ -3,6 +3,7 @@ package ru.alexbykov.sailesstat.remote.dto;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.jackson.JacksonConverterFactory;
+import ru.alexbykov.sailesstat.Const;
 import rx.schedulers.Schedulers;
 
 /**
@@ -10,12 +11,11 @@ import rx.schedulers.Schedulers;
  */
 public class ServiceGenerator {
 
-    private static final String URL = "https://api.myjson.com/bins/";
 
     private static Retrofit.Builder builder =
             new Retrofit.Builder()
                     .addCallAdapterFactory(RxJavaCallAdapterFactory.createWithScheduler(Schedulers.io()))
-                    .baseUrl(URL)
+                    .baseUrl(Const.URL.UrlService)
                     .addConverterFactory(JacksonConverterFactory.create());
 
 

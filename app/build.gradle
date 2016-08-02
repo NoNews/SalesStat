@@ -1,5 +1,6 @@
 apply plugin: 'com.android.application'
 apply plugin: 'android-apt'
+apply plugin: 'realm-android'
 
 android {
     compileSdkVersion 23
@@ -18,6 +19,14 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+    sourceSets {
+        main
+                {
+                    res.srcDirs = [
+                            'src/main/res'
+                            , 'src/main/activity']
+                }
     }
 }
 
@@ -51,7 +60,6 @@ dependencies {
 
 
     compile 'com.squareup.retrofit2:converter-jackson:2.1.0'
-
     compile 'io.reactivex:rxjava:1.1.3'
     compile 'io.reactivex:rxandroid:1.1.0'
 

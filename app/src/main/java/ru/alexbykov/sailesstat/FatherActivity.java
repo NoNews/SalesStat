@@ -32,8 +32,6 @@ public abstract class FatherActivity extends AppCompatActivity {
     TabLayout tabLayout;
 
 
-    String TAG="FATHER_ACTIVITY_LOG";
-
 
     protected void setupNavigationView(int idMenuItem) {
 

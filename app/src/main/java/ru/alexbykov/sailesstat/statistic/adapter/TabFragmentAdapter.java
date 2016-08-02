@@ -16,7 +16,6 @@ import ru.alexbykov.sailesstat.statistic.fragments.PageFather;
 public class TabFragmentAdapter extends FragmentPagerAdapter {
 
 
-    //for use strings
     private Context context;
     private Map<Integer, PageFather> tabs;
 

@@ -44,11 +44,6 @@ public class PlanFragment extends PageFather {
 
     public static PlanFragment getInstance(Context context) {
 
-
-/*        Bundle bundle = new Bundle();
-        fragment.setArguments(bundle);*/
-
-
         PlanFragment fragment = new PlanFragment();
         fragment.setTitle(context.getString(R.string.tab_plan_stat_fragment));
 
@@ -76,7 +71,7 @@ public class PlanFragment extends PageFather {
     private void initProgressPlan(double plan) {
 
 
-        String textPlan = "";
+        String textPlan;
 
 
         progressPlan.setMax(100);
@@ -162,7 +157,7 @@ public class PlanFragment extends PageFather {
 
         ArrayList<Integer> colors = new ArrayList<>();
 
-        colors.add(Color.rgb(76, 175, 80)); //it's rgb green
+        colors.add(Color.rgb(76, 175, 80)); //it's rgb green MD
         colors.add(Color.GRAY);
 
 

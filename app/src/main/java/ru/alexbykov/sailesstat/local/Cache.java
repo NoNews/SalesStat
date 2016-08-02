@@ -1,4 +1,4 @@
-package ru.alexbykov.sailesstat.remote.dto;
+package ru.alexbykov.sailesstat.local;
 
 import java.util.ArrayList;
 import java.util.List;

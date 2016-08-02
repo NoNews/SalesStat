@@ -31,7 +31,7 @@ public class ShipmentsActivity extends FatherActivity {
 
 
     @Override
-    void setupTabs() {
+    protected void setupTabs() {
 
         TabFragmentAdapter adapter = new TabFragmentAdapter(this, getSupportFragmentManager());
         adapter.initTabs(TodayShipmentsFragment.getInstance(this), ShipmentsStatFragment.getInstance(this));
