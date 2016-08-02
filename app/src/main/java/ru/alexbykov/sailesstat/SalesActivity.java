@@ -21,11 +21,9 @@ public class SalesActivity extends FatherActivity {
 
         Log.e(TAG, "onCreate()");
 
-
-
-
-        setTheme(R.style.AppDefault);
+        setupThreme();
         super.onCreate(savedInstanceState);
+
         setContentView(LAYOUT);
         ButterKnife.bind(this);
 

@@ -33,10 +33,18 @@ public abstract class FatherActivity extends AppCompatActivity {
 
 
 
+
+
+    protected void setupThreme(){
+        setTheme(R.style.AppDefault);
+    }
+
+
+
+
     protected void setupNavigationView(int idMenuItem) {
 
         initTogle();
-
         navigationView.setCheckedItem(idMenuItem); //set check insert item
 
 

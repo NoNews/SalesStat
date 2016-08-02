@@ -18,7 +18,7 @@ public class ShipmentsActivity extends FatherActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-        setTheme(R.style.AppDefault);
+        setupThreme();
         super.onCreate(savedInstanceState);
         setContentView(LAYOUT);
         ButterKnife.bind(this);

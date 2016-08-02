@@ -4,28 +4,22 @@
     api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="80635328001021"
-    verifier="FIELD_REMOVED" >
+    timestamp="82836857849591"
+    verifier="METHOD_ADDED" >
 
     <task
         name="javac"
-        duration="869" />
+        duration="1676" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="53" />
+        duration="44" />
     <task
         name="verifier"
-        duration="37" />
+        duration="2" />
 
-    <artifact
-        location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-        type="DEX" />
-    <artifact
-        location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
     <artifact
         location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
         type="DEX" />
@@ -154,6 +148,10 @@
         <artifact
             location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="82836857849591"
+        verifier="METHOD_ADDED" >
         <artifact
             location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
             type="DEX" />
