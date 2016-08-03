@@ -13,7 +13,8 @@ public class PageFather extends Fragment {
     protected View view;
 
 
-    public void setTitle(String title) {
+    public void setTitle(String title)
+    {
         this.title = title;
     }
 

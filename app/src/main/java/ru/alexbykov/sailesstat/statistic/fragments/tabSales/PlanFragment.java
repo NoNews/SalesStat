@@ -59,8 +59,8 @@ public class PlanFragment extends PageFather {
         ButterKnife.bind(this, view);
 
 
-        initCostsChartPie(95.63);
-        initProgressPlan(61.54);
+        initCostsChartPie(54.98);
+        initProgressPlan(25.95);
 
 
         return view;
@@ -98,26 +98,19 @@ public class PlanFragment extends PageFather {
         setDataAndColors(cover);
     }
 
-    private void setDataAndColors(double cover) {
-        List<PieEntry> entries = new ArrayList<>();
-        entries.add(new PieEntry((float) cover, "Покрыто"));
-        entries.add(new PieEntry((float) (100 - cover), "Не покрыто"));
-        PieDataSet dataset = new PieDataSet(entries, "");
+    private void setGeneralSettings() {
 
 
-        //Добавили цвета и форматирование в процентах
-        dataset.setColors(getChartColors());
-        dataset.setValueFormatter(new PercentFormatter());
-        dataset.setValueTextSize(15);
+        costsPieChart.setUsePercentValues(true);
+        costsPieChart.setDescription("");
+        costsPieChart.setDrawSliceText(false);
+        costsPieChart.setDrawSlicesUnderHole(false);
+        costsPieChart.setTouchEnabled(false);
+        costsPieChart.animateXY(330, 2600);
 
-        PieData data = new PieData(dataset);
-        costsPieChart.setData(data);
-    }
 
-    private void setLegendSettings() {
-        Legend legend = costsPieChart.getLegend();
-        legend.setPosition(Legend.LegendPosition.RIGHT_OF_CHART);
-        legend.setTextSize(14);
+        costsPieChart.setClickable(false);
+        costsPieChart.setLongClickable(false);
     }
 
     private void setHoleSettings(double cover) {
@@ -138,29 +131,34 @@ public class PlanFragment extends PageFather {
         costsPieChart.setCenterTextSize(16);
     }
 
-    private void setGeneralSettings() {
-
-
-        costsPieChart.setUsePercentValues(true);
-        costsPieChart.setDescription("");
-        costsPieChart.setDrawSliceText(false);
-        costsPieChart.setDrawSlicesUnderHole(false);
-        costsPieChart.setTouchEnabled(false);
-        costsPieChart.animateXY(0, 2500);
-
-
-        costsPieChart.setClickable(false);
-        costsPieChart.setLongClickable(false);
+    private void setLegendSettings() {
+        Legend legend = costsPieChart.getLegend();
+        legend.setPosition(Legend.LegendPosition.RIGHT_OF_CHART);
+        legend.setTextSize(14);
     }
 
-    private ArrayList<Integer> getChartColors() {
+    private void setDataAndColors(double cover) {
+        List<PieEntry> entries = new ArrayList<>();
+        entries.add(new PieEntry((float) cover, "Покрыто"));
+        entries.add(new PieEntry((float) (100 - cover), "Не покрыто"));
+        PieDataSet dataset = new PieDataSet(entries, "");
+
+
+        //Добавили цвета и форматирование в процентах
+        dataset.setColors(getChartColors());
+        dataset.setValueFormatter(new PercentFormatter());
+        dataset.setValueTextSize(15);
+
+        PieData data = new PieData(dataset);
+        costsPieChart.setData(data);
+    }
+
+     private ArrayList<Integer> getChartColors() {
 
         ArrayList<Integer> colors = new ArrayList<>();
 
         colors.add(Color.rgb(76, 175, 80)); //it's rgb green MD
         colors.add(Color.GRAY);
-
-
         return colors;
     }
 

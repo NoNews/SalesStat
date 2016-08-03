@@ -1,15 +1,15 @@
 [
     {
-        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
         "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_managers.xml",
@@ -24,12 +24,12 @@
         "source": "V:\\android\\SailesStat\\app\\src\\main\\res\\layout\\fragment_plan.xml"
     },
     {
-        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "V:\\android\\SailesStat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "V:\\android\\SailesStat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",

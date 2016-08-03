@@ -1,0 +1,1 @@
+CHANGED,V:\android\SailesStat\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\ru\alexbykov\sailesstat\statistic\fragments\tabSales\PlanFragment.class

@@ -3243,33 +3243,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background ru.alexbykov.sailesstat:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit ru.alexbykov.sailesstat:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked ru.alexbykov.sailesstat:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd ru.alexbykov.sailesstat:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft ru.alexbykov.sailesstat:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight ru.alexbykov.sailesstat:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart ru.alexbykov.sailesstat:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout ru.alexbykov.sailesstat:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions ru.alexbykov.sailesstat:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider ru.alexbykov.sailesstat:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation ru.alexbykov.sailesstat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height ru.alexbykov.sailesstat:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll ru.alexbykov.sailesstat:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ru.alexbykov.sailesstat:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout ru.alexbykov.sailesstat:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon ru.alexbykov.sailesstat:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ru.alexbykov.sailesstat:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding ru.alexbykov.sailesstat:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo ru.alexbykov.sailesstat:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode ru.alexbykov.sailesstat:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme ru.alexbykov.sailesstat:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding ru.alexbykov.sailesstat:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle ru.alexbykov.sailesstat:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle ru.alexbykov.sailesstat:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle ru.alexbykov.sailesstat:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title ru.alexbykov.sailesstat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle ru.alexbykov.sailesstat:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background ru.alexbykov.sailesstat.MyApplication:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit ru.alexbykov.sailesstat.MyApplication:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked ru.alexbykov.sailesstat.MyApplication:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd ru.alexbykov.sailesstat.MyApplication:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft ru.alexbykov.sailesstat.MyApplication:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight ru.alexbykov.sailesstat.MyApplication:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart ru.alexbykov.sailesstat.MyApplication:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout ru.alexbykov.sailesstat.MyApplication:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions ru.alexbykov.sailesstat.MyApplication:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider ru.alexbykov.sailesstat.MyApplication:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation ru.alexbykov.sailesstat.MyApplication:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height ru.alexbykov.sailesstat.MyApplication:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll ru.alexbykov.sailesstat.MyApplication:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ru.alexbykov.sailesstat.MyApplication:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout ru.alexbykov.sailesstat.MyApplication:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon ru.alexbykov.sailesstat.MyApplication:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ru.alexbykov.sailesstat.MyApplication:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding ru.alexbykov.sailesstat.MyApplication:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo ru.alexbykov.sailesstat.MyApplication:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode ru.alexbykov.sailesstat.MyApplication:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme ru.alexbykov.sailesstat.MyApplication:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding ru.alexbykov.sailesstat.MyApplication:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle ru.alexbykov.sailesstat.MyApplication:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle ru.alexbykov.sailesstat.MyApplication:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle ru.alexbykov.sailesstat.MyApplication:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title ru.alexbykov.sailesstat.MyApplication:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle ru.alexbykov.sailesstat.MyApplication:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3309,17 +3309,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010057
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#background}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:background
+          @attr name ru.alexbykov.sailesstat.MyApplication:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3327,11 +3327,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:backgroundSplit
+          @attr name ru.alexbykov.sailesstat.MyApplication:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3339,11 +3339,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:backgroundStacked
+          @attr name ru.alexbykov.sailesstat.MyApplication:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3355,11 +3355,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetEnd
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3371,11 +3371,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetLeft
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3387,11 +3387,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetRight
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3403,21 +3403,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetStart
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:customNavigationLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3435,21 +3435,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:displayOptions
+          @attr name ru.alexbykov.sailesstat.MyApplication:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#divider}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:divider
+          @attr name ru.alexbykov.sailesstat.MyApplication:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3461,11 +3461,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:elevation
+          @attr name ru.alexbykov.sailesstat.MyApplication:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#height}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3477,11 +3477,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:height
+          @attr name ru.alexbykov.sailesstat.MyApplication:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3491,51 +3491,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:hideOnContentScroll
+          @attr name ru.alexbykov.sailesstat.MyApplication:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:homeAsUpIndicator
+          @attr name ru.alexbykov.sailesstat.MyApplication:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:homeLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#icon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:icon
+          @attr name ru.alexbykov.sailesstat.MyApplication:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:indeterminateProgressStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3547,21 +3547,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:itemPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#logo}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:logo
+          @attr name ru.alexbykov.sailesstat.MyApplication:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3575,21 +3575,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:navigationMode
+          @attr name ru.alexbykov.sailesstat.MyApplication:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:popupTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3601,21 +3601,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:progressBarPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:progressBarStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3625,21 +3625,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:subtitle
+          @attr name ru.alexbykov.sailesstat.MyApplication:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:subtitleTextStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#title}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3649,17 +3649,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:title
+          @attr name ru.alexbykov.sailesstat.MyApplication:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:titleTextStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3711,12 +3711,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background ru.alexbykov.sailesstat:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit ru.alexbykov.sailesstat:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout ru.alexbykov.sailesstat:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height ru.alexbykov.sailesstat:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle ru.alexbykov.sailesstat:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle ru.alexbykov.sailesstat:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background ru.alexbykov.sailesstat.MyApplication:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit ru.alexbykov.sailesstat.MyApplication:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout ru.alexbykov.sailesstat.MyApplication:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height ru.alexbykov.sailesstat.MyApplication:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle ru.alexbykov.sailesstat.MyApplication:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle ru.alexbykov.sailesstat.MyApplication:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3730,17 +3730,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#background}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:background
+          @attr name ru.alexbykov.sailesstat.MyApplication:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3748,21 +3748,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:backgroundSplit
+          @attr name ru.alexbykov.sailesstat.MyApplication:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:closeItemLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#height}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3774,27 +3774,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:height
+          @attr name ru.alexbykov.sailesstat.MyApplication:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:subtitleTextStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:titleTextStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3803,8 +3803,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ru.alexbykov.sailesstat:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ru.alexbykov.sailesstat:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ru.alexbykov.sailesstat.MyApplication:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ru.alexbykov.sailesstat.MyApplication:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3813,17 +3813,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:expandActivityOverflowButtonDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3833,7 +3833,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:initialActivityCount
+          @attr name ru.alexbykov.sailesstat.MyApplication:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3843,11 +3843,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ru.alexbykov.sailesstat:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout ru.alexbykov.sailesstat:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout ru.alexbykov.sailesstat:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ru.alexbykov.sailesstat:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ru.alexbykov.sailesstat:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ru.alexbykov.sailesstat.MyApplication:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout ru.alexbykov.sailesstat.MyApplication:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout ru.alexbykov.sailesstat.MyApplication:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ru.alexbykov.sailesstat.MyApplication:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ru.alexbykov.sailesstat.MyApplication:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3867,53 +3867,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonPanelSideLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:listItemLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:listLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:multiChoiceItemLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:singleChoiceItemLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -3923,8 +3923,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation ru.alexbykov.sailesstat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded ru.alexbykov.sailesstat:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation ru.alexbykov.sailesstat.MyApplication:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded ru.alexbykov.sailesstat.MyApplication:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -3940,7 +3940,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -3952,11 +3952,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:elevation
+          @attr name ru.alexbykov.sailesstat.MyApplication:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expanded}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -3966,7 +3966,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:expanded
+          @attr name ru.alexbykov.sailesstat.MyApplication:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayout_LayoutParams.
@@ -3975,8 +3975,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags ru.alexbykov.sailesstat:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator ru.alexbykov.sailesstat:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags ru.alexbykov.sailesstat.MyApplication:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator ru.alexbykov.sailesstat.MyApplication:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_LayoutParams_layout_scrollFlags
            @see #AppBarLayout_LayoutParams_layout_scrollInterpolator
@@ -3985,7 +3985,7 @@ containing a value of this type.
             0x7f010025, 0x7f010026
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
@@ -4001,17 +4001,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:layout_scrollFlags
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_scrollFlags
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:layout_scrollInterpolator
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_scrollInterpolator
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4021,7 +4021,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat ru.alexbykov.sailesstat:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat ru.alexbykov.sailesstat.MyApplication:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4036,13 +4036,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:srcCompat
+          @attr name ru.alexbykov.sailesstat.MyApplication:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatTextView.
@@ -4052,7 +4052,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps ru.alexbykov.sailesstat:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps ru.alexbykov.sailesstat.MyApplication:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4067,14 +4067,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ru.alexbykov.sailesstat:textAllCaps
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4083,118 +4083,118 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider ru.alexbykov.sailesstat:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground ru.alexbykov.sailesstat:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme ru.alexbykov.sailesstat:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize ru.alexbykov.sailesstat:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle ru.alexbykov.sailesstat:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle ru.alexbykov.sailesstat:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle ru.alexbykov.sailesstat:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle ru.alexbykov.sailesstat:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle ru.alexbykov.sailesstat:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme ru.alexbykov.sailesstat:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme ru.alexbykov.sailesstat:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle ru.alexbykov.sailesstat:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle ru.alexbykov.sailesstat:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance ru.alexbykov.sailesstat:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor ru.alexbykov.sailesstat:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground ru.alexbykov.sailesstat:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle ru.alexbykov.sailesstat:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable ru.alexbykov.sailesstat:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable ru.alexbykov.sailesstat:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable ru.alexbykov.sailesstat:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable ru.alexbykov.sailesstat:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable ru.alexbykov.sailesstat:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle ru.alexbykov.sailesstat:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable ru.alexbykov.sailesstat:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable ru.alexbykov.sailesstat:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground ru.alexbykov.sailesstat:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle ru.alexbykov.sailesstat:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable ru.alexbykov.sailesstat:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle ru.alexbykov.sailesstat:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle ru.alexbykov.sailesstat:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle ru.alexbykov.sailesstat:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle ru.alexbykov.sailesstat:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons ru.alexbykov.sailesstat:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle ru.alexbykov.sailesstat:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme ru.alexbykov.sailesstat:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider ru.alexbykov.sailesstat.MyApplication:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground ru.alexbykov.sailesstat.MyApplication:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme ru.alexbykov.sailesstat.MyApplication:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize ru.alexbykov.sailesstat.MyApplication:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle ru.alexbykov.sailesstat.MyApplication:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle ru.alexbykov.sailesstat.MyApplication:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle ru.alexbykov.sailesstat.MyApplication:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle ru.alexbykov.sailesstat.MyApplication:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle ru.alexbykov.sailesstat.MyApplication:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme ru.alexbykov.sailesstat.MyApplication:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme ru.alexbykov.sailesstat.MyApplication:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle ru.alexbykov.sailesstat.MyApplication:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle ru.alexbykov.sailesstat.MyApplication:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance ru.alexbykov.sailesstat.MyApplication:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor ru.alexbykov.sailesstat.MyApplication:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground ru.alexbykov.sailesstat.MyApplication:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle ru.alexbykov.sailesstat.MyApplication:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable ru.alexbykov.sailesstat.MyApplication:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable ru.alexbykov.sailesstat.MyApplication:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable ru.alexbykov.sailesstat.MyApplication:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable ru.alexbykov.sailesstat.MyApplication:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable ru.alexbykov.sailesstat.MyApplication:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle ru.alexbykov.sailesstat.MyApplication:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable ru.alexbykov.sailesstat.MyApplication:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable ru.alexbykov.sailesstat.MyApplication:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground ru.alexbykov.sailesstat.MyApplication:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle ru.alexbykov.sailesstat.MyApplication:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable ru.alexbykov.sailesstat.MyApplication:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle ru.alexbykov.sailesstat.MyApplication:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle ru.alexbykov.sailesstat.MyApplication:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle ru.alexbykov.sailesstat.MyApplication:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle ru.alexbykov.sailesstat.MyApplication:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons ru.alexbykov.sailesstat.MyApplication:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle ru.alexbykov.sailesstat.MyApplication:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme ru.alexbykov.sailesstat.MyApplication:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle ru.alexbykov.sailesstat:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle ru.alexbykov.sailesstat:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle ru.alexbykov.sailesstat:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle ru.alexbykov.sailesstat:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle ru.alexbykov.sailesstat:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle ru.alexbykov.sailesstat:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle ru.alexbykov.sailesstat:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle ru.alexbykov.sailesstat:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall ru.alexbykov.sailesstat:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle ru.alexbykov.sailesstat:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle ru.alexbykov.sailesstat:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent ru.alexbykov.sailesstat:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal ru.alexbykov.sailesstat:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated ru.alexbykov.sailesstat:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight ru.alexbykov.sailesstat:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal ru.alexbykov.sailesstat:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary ru.alexbykov.sailesstat:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark ru.alexbykov.sailesstat:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal ru.alexbykov.sailesstat:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground ru.alexbykov.sailesstat:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding ru.alexbykov.sailesstat:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme ru.alexbykov.sailesstat:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal ru.alexbykov.sailesstat:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical ru.alexbykov.sailesstat:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle ru.alexbykov.sailesstat:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight ru.alexbykov.sailesstat:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground ru.alexbykov.sailesstat:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor ru.alexbykov.sailesstat:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle ru.alexbykov.sailesstat:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator ru.alexbykov.sailesstat:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle ru.alexbykov.sailesstat:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator ru.alexbykov.sailesstat:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog ru.alexbykov.sailesstat:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle ru.alexbykov.sailesstat:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight ru.alexbykov.sailesstat:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge ru.alexbykov.sailesstat:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall ru.alexbykov.sailesstat:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft ru.alexbykov.sailesstat:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight ru.alexbykov.sailesstat:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground ru.alexbykov.sailesstat:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme ru.alexbykov.sailesstat:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth ru.alexbykov.sailesstat:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle ru.alexbykov.sailesstat:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle ru.alexbykov.sailesstat:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle ru.alexbykov.sailesstat:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle ru.alexbykov.sailesstat:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator ru.alexbykov.sailesstat:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall ru.alexbykov.sailesstat:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle ru.alexbykov.sailesstat:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle ru.alexbykov.sailesstat:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground ru.alexbykov.sailesstat:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless ru.alexbykov.sailesstat:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle ru.alexbykov.sailesstat:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle ru.alexbykov.sailesstat:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle ru.alexbykov.sailesstat:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu ru.alexbykov.sailesstat:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem ru.alexbykov.sailesstat:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall ru.alexbykov.sailesstat:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle ru.alexbykov.sailesstat:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle ru.alexbykov.sailesstat:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu ru.alexbykov.sailesstat:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem ru.alexbykov.sailesstat:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl ru.alexbykov.sailesstat:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle ru.alexbykov.sailesstat:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle ru.alexbykov.sailesstat:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar ru.alexbykov.sailesstat:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay ru.alexbykov.sailesstat:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay ru.alexbykov.sailesstat:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor ru.alexbykov.sailesstat:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor ru.alexbykov.sailesstat:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor ru.alexbykov.sailesstat:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor ru.alexbykov.sailesstat:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor ru.alexbykov.sailesstat:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor ru.alexbykov.sailesstat:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle ru.alexbykov.sailesstat:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle ru.alexbykov.sailesstat.MyApplication:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle ru.alexbykov.sailesstat.MyApplication:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle ru.alexbykov.sailesstat.MyApplication:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle ru.alexbykov.sailesstat.MyApplication:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle ru.alexbykov.sailesstat.MyApplication:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle ru.alexbykov.sailesstat.MyApplication:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle ru.alexbykov.sailesstat.MyApplication:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle ru.alexbykov.sailesstat.MyApplication:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall ru.alexbykov.sailesstat.MyApplication:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle ru.alexbykov.sailesstat.MyApplication:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle ru.alexbykov.sailesstat.MyApplication:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent ru.alexbykov.sailesstat.MyApplication:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal ru.alexbykov.sailesstat.MyApplication:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated ru.alexbykov.sailesstat.MyApplication:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight ru.alexbykov.sailesstat.MyApplication:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal ru.alexbykov.sailesstat.MyApplication:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary ru.alexbykov.sailesstat.MyApplication:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark ru.alexbykov.sailesstat.MyApplication:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal ru.alexbykov.sailesstat.MyApplication:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground ru.alexbykov.sailesstat.MyApplication:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding ru.alexbykov.sailesstat.MyApplication:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme ru.alexbykov.sailesstat.MyApplication:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal ru.alexbykov.sailesstat.MyApplication:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical ru.alexbykov.sailesstat.MyApplication:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle ru.alexbykov.sailesstat.MyApplication:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight ru.alexbykov.sailesstat.MyApplication:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground ru.alexbykov.sailesstat.MyApplication:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor ru.alexbykov.sailesstat.MyApplication:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle ru.alexbykov.sailesstat.MyApplication:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator ru.alexbykov.sailesstat.MyApplication:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle ru.alexbykov.sailesstat.MyApplication:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator ru.alexbykov.sailesstat.MyApplication:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog ru.alexbykov.sailesstat.MyApplication:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle ru.alexbykov.sailesstat.MyApplication:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight ru.alexbykov.sailesstat.MyApplication:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge ru.alexbykov.sailesstat.MyApplication:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall ru.alexbykov.sailesstat.MyApplication:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft ru.alexbykov.sailesstat.MyApplication:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight ru.alexbykov.sailesstat.MyApplication:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground ru.alexbykov.sailesstat.MyApplication:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme ru.alexbykov.sailesstat.MyApplication:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth ru.alexbykov.sailesstat.MyApplication:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle ru.alexbykov.sailesstat.MyApplication:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle ru.alexbykov.sailesstat.MyApplication:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle ru.alexbykov.sailesstat.MyApplication:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle ru.alexbykov.sailesstat.MyApplication:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator ru.alexbykov.sailesstat.MyApplication:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall ru.alexbykov.sailesstat.MyApplication:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle ru.alexbykov.sailesstat.MyApplication:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle ru.alexbykov.sailesstat.MyApplication:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground ru.alexbykov.sailesstat.MyApplication:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless ru.alexbykov.sailesstat.MyApplication:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle ru.alexbykov.sailesstat.MyApplication:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle ru.alexbykov.sailesstat.MyApplication:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle ru.alexbykov.sailesstat.MyApplication:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu ru.alexbykov.sailesstat.MyApplication:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem ru.alexbykov.sailesstat.MyApplication:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall ru.alexbykov.sailesstat.MyApplication:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle ru.alexbykov.sailesstat.MyApplication:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle ru.alexbykov.sailesstat.MyApplication:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu ru.alexbykov.sailesstat.MyApplication:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem ru.alexbykov.sailesstat.MyApplication:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl ru.alexbykov.sailesstat.MyApplication:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle ru.alexbykov.sailesstat.MyApplication:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle ru.alexbykov.sailesstat.MyApplication:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar ru.alexbykov.sailesstat.MyApplication:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay ru.alexbykov.sailesstat.MyApplication:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay ru.alexbykov.sailesstat.MyApplication:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor ru.alexbykov.sailesstat.MyApplication:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor ru.alexbykov.sailesstat.MyApplication:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor ru.alexbykov.sailesstat.MyApplication:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor ru.alexbykov.sailesstat.MyApplication:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor ru.alexbykov.sailesstat.MyApplication:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor ru.alexbykov.sailesstat.MyApplication:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle ru.alexbykov.sailesstat.MyApplication:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4340,37 +4340,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010093, 0x7f010094, 0x7f010095, 0x7f010096
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarDivider
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarItemBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarPopupTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4390,111 +4390,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:actionBarSize
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarSplitStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarTabBarStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarTabStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarTabTextStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionBarWidgetTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionDropDownStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionMenuTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4502,181 +4502,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionMenuTextColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeCloseButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeCloseDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeCopyDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeCutDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeFindDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModePasteDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModePopupWindowStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeSelectAllDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeShareDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeSplitBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionModeWebSearchDrawable
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionOverflowButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionOverflowMenuStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:activityChooserViewStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:alertDialogButtonGroupStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4686,27 +4686,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:alertDialogCenterButtons
+          @attr name ru.alexbykov.sailesstat.MyApplication:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:alertDialogStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:alertDialogTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 94;
         /**
@@ -4722,117 +4722,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:autoCompleteTextViewStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:borderlessButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonBarButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonBarNegativeButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonBarNeutralButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonBarPositiveButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonBarStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:buttonStyleSmall
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:checkboxStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:checkedTextViewStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4843,11 +4843,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorAccent
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4858,11 +4858,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorButtonNormal
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4873,11 +4873,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorControlActivated
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4888,11 +4888,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorControlHighlight
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4903,11 +4903,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorControlNormal
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4918,11 +4918,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorPrimary
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4933,11 +4933,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorPrimaryDark
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4948,21 +4948,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:colorSwitchThumbNormal
+          @attr name ru.alexbykov.sailesstat.MyApplication:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:controlBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4974,51 +4974,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:dialogPreferredPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:dialogTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:dividerHorizontal
+          @attr name ru.alexbykov.sailesstat.MyApplication:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:dividerVertical
+          @attr name ru.alexbykov.sailesstat.MyApplication:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:dropDownListViewStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5030,21 +5030,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:dropdownListPreferredItemHeight
+          @attr name ru.alexbykov.sailesstat.MyApplication:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:editTextBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5052,71 +5052,71 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:editTextColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:editTextStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:homeAsUpIndicator
+          @attr name ru.alexbykov.sailesstat.MyApplication:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:imageButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:listChoiceBackgroundIndicator
+          @attr name ru.alexbykov.sailesstat.MyApplication:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:listDividerAlertDialog
+          @attr name ru.alexbykov.sailesstat.MyApplication:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:listPopupWindowStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5128,11 +5128,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:listPreferredItemHeight
+          @attr name ru.alexbykov.sailesstat.MyApplication:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5144,11 +5144,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:listPreferredItemHeightLarge
+          @attr name ru.alexbykov.sailesstat.MyApplication:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5160,11 +5160,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:listPreferredItemHeightSmall
+          @attr name ru.alexbykov.sailesstat.MyApplication:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5176,11 +5176,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:listPreferredItemPaddingLeft
+          @attr name ru.alexbykov.sailesstat.MyApplication:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5192,31 +5192,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:listPreferredItemPaddingRight
+          @attr name ru.alexbykov.sailesstat.MyApplication:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:panelBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:panelMenuListTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5228,201 +5228,201 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:panelMenuListWidth
+          @attr name ru.alexbykov.sailesstat.MyApplication:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:popupMenuStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:popupWindowStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:radioButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:ratingBarStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:ratingBarStyleIndicator
+          @attr name ru.alexbykov.sailesstat.MyApplication:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 107;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:ratingBarStyleSmall
+          @attr name ru.alexbykov.sailesstat.MyApplication:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 108;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:searchViewStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:seekBarStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:selectableItemBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:selectableItemBackgroundBorderless
+          @attr name ru.alexbykov.sailesstat.MyApplication:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:spinnerDropDownItemStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:spinnerStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 110;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:switchStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:textAppearanceLargePopupMenu
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:textAppearanceListItem
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:textAppearanceListItemSmall
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:textAppearanceSearchResultSubtitle
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:textAppearanceSearchResultTitle
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:textAppearanceSmallPopupMenu
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5430,11 +5430,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:textColorAlertDialogListItem
+          @attr name ru.alexbykov.sailesstat.MyApplication:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5442,31 +5442,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:textColorSearchUrl
+          @attr name ru.alexbykov.sailesstat.MyApplication:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:toolbarNavigationButtonStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:toolbarStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5476,11 +5476,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowActionBar
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5490,11 +5490,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowActionBarOverlay
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5504,11 +5504,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowActionModeOverlay
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5523,11 +5523,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowFixedHeightMajor
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5542,11 +5542,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowFixedHeightMinor
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5561,11 +5561,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowFixedWidthMajor
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5580,11 +5580,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowFixedWidthMinor
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5599,11 +5599,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowMinWidthMajor
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5618,11 +5618,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowMinWidthMinor
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5632,7 +5632,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:windowNoTitle
+          @attr name ru.alexbykov.sailesstat.MyApplication:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomSheetBehavior_Params.
@@ -5641,8 +5641,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Params_behavior_hideable ru.alexbykov.sailesstat:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Params_behavior_peekHeight ru.alexbykov.sailesstat:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Params_behavior_hideable ru.alexbykov.sailesstat.MyApplication:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Params_behavior_peekHeight ru.alexbykov.sailesstat.MyApplication:behavior_peekHeight}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Params_behavior_hideable
            @see #BottomSheetBehavior_Params_behavior_peekHeight
@@ -5651,7 +5651,7 @@ containing a value of this type.
             0x7f010097, 0x7f010098
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Params} array.
 
 
@@ -5661,11 +5661,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:behavior_hideable
+          @attr name ru.alexbykov.sailesstat.MyApplication:behavior_hideable
         */
         public static final int BottomSheetBehavior_Params_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Params} array.
 
 
@@ -5677,7 +5677,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:behavior_peekHeight
+          @attr name ru.alexbykov.sailesstat.MyApplication:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Params_behavior_peekHeight = 0;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -5686,7 +5686,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking ru.alexbykov.sailesstat:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking ru.alexbykov.sailesstat.MyApplication:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -5694,7 +5694,7 @@ containing a value of this type.
             0x7f010099
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -5704,7 +5704,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:allowStacking
+          @attr name ru.alexbykov.sailesstat.MyApplication:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -5715,17 +5715,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor ru.alexbykov.sailesstat:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius ru.alexbykov.sailesstat:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation ru.alexbykov.sailesstat:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation ru.alexbykov.sailesstat:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ru.alexbykov.sailesstat:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding ru.alexbykov.sailesstat:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding ru.alexbykov.sailesstat:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom ru.alexbykov.sailesstat:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft ru.alexbykov.sailesstat:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight ru.alexbykov.sailesstat:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop ru.alexbykov.sailesstat:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor ru.alexbykov.sailesstat.MyApplication:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius ru.alexbykov.sailesstat.MyApplication:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation ru.alexbykov.sailesstat.MyApplication:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation ru.alexbykov.sailesstat.MyApplication:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ru.alexbykov.sailesstat.MyApplication:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding ru.alexbykov.sailesstat.MyApplication:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding ru.alexbykov.sailesstat.MyApplication:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom ru.alexbykov.sailesstat.MyApplication:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft ru.alexbykov.sailesstat.MyApplication:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight ru.alexbykov.sailesstat.MyApplication:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop ru.alexbykov.sailesstat.MyApplication:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -5760,7 +5760,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5771,11 +5771,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:cardBackgroundColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5787,11 +5787,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:cardCornerRadius
+          @attr name ru.alexbykov.sailesstat.MyApplication:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5803,11 +5803,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:cardElevation
+          @attr name ru.alexbykov.sailesstat.MyApplication:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5819,11 +5819,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:cardMaxElevation
+          @attr name ru.alexbykov.sailesstat.MyApplication:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5833,11 +5833,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:cardPreventCornerOverlap
+          @attr name ru.alexbykov.sailesstat.MyApplication:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5847,11 +5847,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:cardUseCompatPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5863,11 +5863,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5879,11 +5879,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentPaddingBottom
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5895,11 +5895,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentPaddingLeft
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5911,11 +5911,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentPaddingRight
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -5927,7 +5927,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentPaddingTop
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingAppBarLayout_LayoutParams.
@@ -5936,8 +5936,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode ru.alexbykov.sailesstat:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier ru.alexbykov.sailesstat:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode ru.alexbykov.sailesstat.MyApplication:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier ru.alexbykov.sailesstat.MyApplication:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseMode
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
@@ -5946,7 +5946,7 @@ containing a value of this type.
             0x7f0100a5, 0x7f0100a6
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -5960,11 +5960,11 @@ containing a value of this type.
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:layout_collapseMode
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_collapseMode
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -5974,7 +5974,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:layout_collapseParallaxMultiplier
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -5983,20 +5983,20 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ru.alexbykov.sailesstat:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ru.alexbykov.sailesstat:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ru.alexbykov.sailesstat:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ru.alexbykov.sailesstat:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ru.alexbykov.sailesstat:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ru.alexbykov.sailesstat:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ru.alexbykov.sailesstat:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ru.alexbykov.sailesstat:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ru.alexbykov.sailesstat:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ru.alexbykov.sailesstat:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ru.alexbykov.sailesstat:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title ru.alexbykov.sailesstat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ru.alexbykov.sailesstat:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ru.alexbykov.sailesstat:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ru.alexbykov.sailesstat.MyApplication:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ru.alexbykov.sailesstat.MyApplication:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ru.alexbykov.sailesstat.MyApplication:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ru.alexbykov.sailesstat.MyApplication:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ru.alexbykov.sailesstat.MyApplication:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ru.alexbykov.sailesstat.MyApplication:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ru.alexbykov.sailesstat.MyApplication:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title ru.alexbykov.sailesstat.MyApplication:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ru.alexbykov.sailesstat.MyApplication:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ru.alexbykov.sailesstat.MyApplication:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6020,7 +6020,7 @@ containing a value of this type.
             0x7f0100b2, 0x7f0100b3
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6041,21 +6041,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:collapsedTitleGravity
+          @attr name ru.alexbykov.sailesstat.MyApplication:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:collapsedTitleTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6066,11 +6066,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentScrim
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6091,11 +6091,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:expandedTitleGravity
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6107,11 +6107,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:expandedTitleMargin
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6123,11 +6123,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:expandedTitleMarginBottom
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6139,11 +6139,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:expandedTitleMarginEnd
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6155,11 +6155,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:expandedTitleMarginStart
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6171,21 +6171,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:expandedTitleMarginTop
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:expandedTitleTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6196,11 +6196,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:statusBarScrim
+          @attr name ru.alexbykov.sailesstat.MyApplication:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#title}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6210,11 +6210,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:title
+          @attr name ru.alexbykov.sailesstat.MyApplication:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6224,17 +6224,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:titleEnabled
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:toolbarId
+          @attr name ru.alexbykov.sailesstat.MyApplication:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CompoundButton.
@@ -6244,8 +6244,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint ru.alexbykov.sailesstat:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode ru.alexbykov.sailesstat:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint ru.alexbykov.sailesstat.MyApplication:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode ru.alexbykov.sailesstat.MyApplication:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6261,7 +6261,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6272,11 +6272,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:buttonTint
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6292,7 +6292,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:buttonTintMode
+          @attr name ru.alexbykov.sailesstat.MyApplication:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -6301,8 +6301,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines ru.alexbykov.sailesstat:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ru.alexbykov.sailesstat:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines ru.alexbykov.sailesstat.MyApplication:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ru.alexbykov.sailesstat.MyApplication:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -6311,23 +6311,23 @@ containing a value of this type.
             0x7f0100b6, 0x7f0100b7
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#keylines}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:keylines
+          @attr name ru.alexbykov.sailesstat.MyApplication:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:statusBarBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_LayoutParams.
@@ -6337,10 +6337,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_LayoutParams_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor ru.alexbykov.sailesstat:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity ru.alexbykov.sailesstat:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior ru.alexbykov.sailesstat:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline ru.alexbykov.sailesstat:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor ru.alexbykov.sailesstat.MyApplication:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity ru.alexbykov.sailesstat.MyApplication:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior ru.alexbykov.sailesstat.MyApplication:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline ru.alexbykov.sailesstat.MyApplication:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_LayoutParams_android_layout_gravity
            @see #CoordinatorLayout_LayoutParams_layout_anchor
@@ -6359,17 +6359,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_LayoutParams_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:layout_anchor
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_anchor
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -6394,11 +6394,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:layout_anchorGravity
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_anchorGravity
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -6408,11 +6408,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:layout_behavior
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_behavior
         */
         public static final int CoordinatorLayout_LayoutParams_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -6422,7 +6422,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:layout_keyline
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout_keyline
         */
         public static final int CoordinatorLayout_LayoutParams_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -6431,9 +6431,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme ru.alexbykov.sailesstat:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle ru.alexbykov.sailesstat:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError ru.alexbykov.sailesstat:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme ru.alexbykov.sailesstat.MyApplication:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle ru.alexbykov.sailesstat.MyApplication:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError ru.alexbykov.sailesstat.MyApplication:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -6443,27 +6443,27 @@ containing a value of this type.
             0x7f0100bc, 0x7f0100bd, 0x7f0100be
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:bottomSheetDialogTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:bottomSheetStyle
+          @attr name ru.alexbykov.sailesstat.MyApplication:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -6474,7 +6474,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:textColorError
+          @attr name ru.alexbykov.sailesstat.MyApplication:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -6483,14 +6483,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ru.alexbykov.sailesstat:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ru.alexbykov.sailesstat:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength ru.alexbykov.sailesstat:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color ru.alexbykov.sailesstat:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ru.alexbykov.sailesstat:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ru.alexbykov.sailesstat:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars ru.alexbykov.sailesstat:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness ru.alexbykov.sailesstat:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ru.alexbykov.sailesstat.MyApplication:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ru.alexbykov.sailesstat.MyApplication:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength ru.alexbykov.sailesstat.MyApplication:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color ru.alexbykov.sailesstat.MyApplication:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ru.alexbykov.sailesstat.MyApplication:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ru.alexbykov.sailesstat.MyApplication:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars ru.alexbykov.sailesstat.MyApplication:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness ru.alexbykov.sailesstat.MyApplication:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -6506,7 +6506,7 @@ containing a value of this type.
             0x7f0100c3, 0x7f0100c4, 0x7f0100c5, 0x7f0100c6
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6518,11 +6518,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:arrowHeadLength
+          @attr name ru.alexbykov.sailesstat.MyApplication:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6534,11 +6534,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:arrowShaftLength
+          @attr name ru.alexbykov.sailesstat.MyApplication:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#barLength}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6550,11 +6550,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:barLength
+          @attr name ru.alexbykov.sailesstat.MyApplication:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#color}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6565,11 +6565,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:color
+          @attr name ru.alexbykov.sailesstat.MyApplication:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6581,11 +6581,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:drawableSize
+          @attr name ru.alexbykov.sailesstat.MyApplication:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6597,11 +6597,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:gapBetweenBars
+          @attr name ru.alexbykov.sailesstat.MyApplication:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6611,11 +6611,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:spinBars
+          @attr name ru.alexbykov.sailesstat.MyApplication:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#thickness}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6627,7 +6627,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:thickness
+          @attr name ru.alexbykov.sailesstat.MyApplication:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -6636,14 +6636,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint ru.alexbykov.sailesstat:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ru.alexbykov.sailesstat:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth ru.alexbykov.sailesstat:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation ru.alexbykov.sailesstat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize ru.alexbykov.sailesstat:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ru.alexbykov.sailesstat:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor ru.alexbykov.sailesstat:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding ru.alexbykov.sailesstat:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint ru.alexbykov.sailesstat.MyApplication:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ru.alexbykov.sailesstat.MyApplication:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth ru.alexbykov.sailesstat.MyApplication:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation ru.alexbykov.sailesstat.MyApplication:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize ru.alexbykov.sailesstat.MyApplication:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ru.alexbykov.sailesstat.MyApplication:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor ru.alexbykov.sailesstat.MyApplication:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding ru.alexbykov.sailesstat.MyApplication:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -6659,7 +6659,7 @@ containing a value of this type.
             0x7f0100ca, 0x7f0100cb, 0x7f01013a, 0x7f01013b
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6670,11 +6670,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:backgroundTint
+          @attr name ru.alexbykov.sailesstat.MyApplication:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6690,11 +6690,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:backgroundTintMode
+          @attr name ru.alexbykov.sailesstat.MyApplication:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6706,11 +6706,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:borderWidth
+          @attr name ru.alexbykov.sailesstat.MyApplication:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6722,11 +6722,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:elevation
+          @attr name ru.alexbykov.sailesstat.MyApplication:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6739,11 +6739,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:fabSize
+          @attr name ru.alexbykov.sailesstat.MyApplication:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6755,11 +6755,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:pressedTranslationZ
+          @attr name ru.alexbykov.sailesstat.MyApplication:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6770,11 +6770,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rippleColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -6784,7 +6784,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:useCompatPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -6795,7 +6795,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ru.alexbykov.sailesstat:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ru.alexbykov.sailesstat.MyApplication:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -6817,7 +6817,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -6827,7 +6827,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:foregroundInsidePadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a IconRoundCornerProgress.
@@ -6836,16 +6836,16 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconBackgroundColor ru.alexbykov.sailesstat:rcIconBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconHeight ru.alexbykov.sailesstat:rcIconHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPadding ru.alexbykov.sailesstat:rcIconPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingBottom ru.alexbykov.sailesstat:rcIconPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingLeft ru.alexbykov.sailesstat:rcIconPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingRight ru.alexbykov.sailesstat:rcIconPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingTop ru.alexbykov.sailesstat:rcIconPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconSize ru.alexbykov.sailesstat:rcIconSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconSrc ru.alexbykov.sailesstat:rcIconSrc}</code></td><td></td></tr>
-           <tr><td><code>{@link #IconRoundCornerProgress_rcIconWidth ru.alexbykov.sailesstat:rcIconWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconBackgroundColor ru.alexbykov.sailesstat.MyApplication:rcIconBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconHeight ru.alexbykov.sailesstat.MyApplication:rcIconHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPadding ru.alexbykov.sailesstat.MyApplication:rcIconPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingBottom ru.alexbykov.sailesstat.MyApplication:rcIconPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingLeft ru.alexbykov.sailesstat.MyApplication:rcIconPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingRight ru.alexbykov.sailesstat.MyApplication:rcIconPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconPaddingTop ru.alexbykov.sailesstat.MyApplication:rcIconPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconSize ru.alexbykov.sailesstat.MyApplication:rcIconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconSrc ru.alexbykov.sailesstat.MyApplication:rcIconSrc}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconRoundCornerProgress_rcIconWidth ru.alexbykov.sailesstat.MyApplication:rcIconWidth}</code></td><td></td></tr>
            </table>
            @see #IconRoundCornerProgress_rcIconBackgroundColor
            @see #IconRoundCornerProgress_rcIconHeight
@@ -6864,7 +6864,7 @@ containing a value of this type.
             0x7f0100d5, 0x7f0100d6
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconBackgroundColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconBackgroundColor}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6875,11 +6875,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconBackgroundColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconBackgroundColor
         */
         public static final int IconRoundCornerProgress_rcIconBackgroundColor = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconHeight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconHeight}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6891,11 +6891,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconHeight
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconHeight
         */
         public static final int IconRoundCornerProgress_rcIconHeight = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconPadding}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6907,11 +6907,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconPadding
         */
         public static final int IconRoundCornerProgress_rcIconPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconPaddingBottom}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconPaddingBottom}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6923,11 +6923,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconPaddingBottom
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconPaddingBottom
         */
         public static final int IconRoundCornerProgress_rcIconPaddingBottom = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconPaddingLeft}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconPaddingLeft}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6939,11 +6939,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconPaddingLeft
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconPaddingLeft
         */
         public static final int IconRoundCornerProgress_rcIconPaddingLeft = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconPaddingRight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconPaddingRight}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6955,11 +6955,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconPaddingRight
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconPaddingRight
         */
         public static final int IconRoundCornerProgress_rcIconPaddingRight = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconPaddingTop}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconPaddingTop}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6971,11 +6971,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconPaddingTop
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconPaddingTop
         */
         public static final int IconRoundCornerProgress_rcIconPaddingTop = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconSize}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconSize}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -6987,11 +6987,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconSize
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconSize
         */
         public static final int IconRoundCornerProgress_rcIconSize = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconSrc}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconSrc}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -7001,11 +7001,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconSrc
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconSrc
         */
         public static final int IconRoundCornerProgress_rcIconSrc = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcIconWidth}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcIconWidth}
           attribute's value can be found in the {@link #IconRoundCornerProgress} array.
 
 
@@ -7017,7 +7017,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcIconWidth
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcIconWidth
         */
         public static final int IconRoundCornerProgress_rcIconWidth = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7031,10 +7031,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider ru.alexbykov.sailesstat:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ru.alexbykov.sailesstat:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ru.alexbykov.sailesstat:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers ru.alexbykov.sailesstat:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider ru.alexbykov.sailesstat.MyApplication:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ru.alexbykov.sailesstat.MyApplication:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ru.alexbykov.sailesstat.MyApplication:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers ru.alexbykov.sailesstat.MyApplication:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7082,17 +7082,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#divider}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:divider
+          @attr name ru.alexbykov.sailesstat.MyApplication:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7104,11 +7104,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:dividerPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7118,11 +7118,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:measureWithLargestChild
+          @attr name ru.alexbykov.sailesstat.MyApplication:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7137,7 +7137,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:showDividers
+          @attr name ru.alexbykov.sailesstat.MyApplication:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7276,9 +7276,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout ru.alexbykov.sailesstat:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass ru.alexbykov.sailesstat:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass ru.alexbykov.sailesstat:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout ru.alexbykov.sailesstat.MyApplication:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass ru.alexbykov.sailesstat.MyApplication:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass ru.alexbykov.sailesstat.MyApplication:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7292,7 +7292,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction ru.alexbykov.sailesstat:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction ru.alexbykov.sailesstat.MyApplication:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7320,17 +7320,17 @@ containing a value of this type.
             0x7f0100dd
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:actionLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7340,11 +7340,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:actionProviderClass
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7354,7 +7354,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:actionViewClass
+          @attr name ru.alexbykov.sailesstat.MyApplication:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -7436,7 +7436,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7452,7 +7452,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:showAsAction
+          @attr name ru.alexbykov.sailesstat.MyApplication:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -7468,7 +7468,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing ru.alexbykov.sailesstat:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing ru.alexbykov.sailesstat.MyApplication:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7526,7 +7526,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7536,7 +7536,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:preserveIconSpacing
+          @attr name ru.alexbykov.sailesstat.MyApplication:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a NavigationView.
@@ -7548,13 +7548,13 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation ru.alexbykov.sailesstat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout ru.alexbykov.sailesstat:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground ru.alexbykov.sailesstat:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint ru.alexbykov.sailesstat:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance ru.alexbykov.sailesstat:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor ru.alexbykov.sailesstat:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu ru.alexbykov.sailesstat:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation ru.alexbykov.sailesstat.MyApplication:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout ru.alexbykov.sailesstat.MyApplication:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground ru.alexbykov.sailesstat.MyApplication:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint ru.alexbykov.sailesstat.MyApplication:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance ru.alexbykov.sailesstat.MyApplication:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor ru.alexbykov.sailesstat.MyApplication:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu ru.alexbykov.sailesstat.MyApplication:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -7591,7 +7591,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7603,31 +7603,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:elevation
+          @attr name ru.alexbykov.sailesstat.MyApplication:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:headerLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:itemBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7638,21 +7638,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:itemIconTint
+          @attr name ru.alexbykov.sailesstat.MyApplication:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:itemTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -7663,17 +7663,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:itemTextColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#menu}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:menu
+          @attr name ru.alexbykov.sailesstat.MyApplication:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -7683,7 +7683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor ru.alexbykov.sailesstat:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor ru.alexbykov.sailesstat.MyApplication:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -7698,7 +7698,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -7708,7 +7708,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:overlapAnchor
+          @attr name ru.alexbykov.sailesstat.MyApplication:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -7717,7 +7717,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ru.alexbykov.sailesstat:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ru.alexbykov.sailesstat.MyApplication:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -7725,7 +7725,7 @@ containing a value of this type.
             0x7f0100e6
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -7735,7 +7735,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:state_above_anchor
+          @attr name ru.alexbykov.sailesstat.MyApplication:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -7745,10 +7745,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager ru.alexbykov.sailesstat:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout ru.alexbykov.sailesstat:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount ru.alexbykov.sailesstat:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd ru.alexbykov.sailesstat:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager ru.alexbykov.sailesstat.MyApplication:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout ru.alexbykov.sailesstat.MyApplication:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount ru.alexbykov.sailesstat.MyApplication:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd ru.alexbykov.sailesstat.MyApplication:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -7767,7 +7767,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7777,11 +7777,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:layoutManager
+          @attr name ru.alexbykov.sailesstat.MyApplication:layoutManager
         */
         public static final int RecyclerView_layoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7791,11 +7791,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:reverseLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7805,11 +7805,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:spanCount
+          @attr name ru.alexbykov.sailesstat.MyApplication:spanCount
         */
         public static final int RecyclerView_spanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -7819,7 +7819,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:stackFromEnd
+          @attr name ru.alexbykov.sailesstat.MyApplication:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a RoundCornerProgress.
@@ -7828,15 +7828,15 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcBackgroundColor ru.alexbykov.sailesstat:rcBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcBackgroundPadding ru.alexbykov.sailesstat:rcBackgroundPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcMax ru.alexbykov.sailesstat:rcMax}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcProgress ru.alexbykov.sailesstat:rcProgress}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcProgressColor ru.alexbykov.sailesstat:rcProgressColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcRadius ru.alexbykov.sailesstat:rcRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcReverse ru.alexbykov.sailesstat:rcReverse}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcSecondaryProgress ru.alexbykov.sailesstat:rcSecondaryProgress}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundCornerProgress_rcSecondaryProgressColor ru.alexbykov.sailesstat:rcSecondaryProgressColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcBackgroundColor ru.alexbykov.sailesstat.MyApplication:rcBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcBackgroundPadding ru.alexbykov.sailesstat.MyApplication:rcBackgroundPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcMax ru.alexbykov.sailesstat.MyApplication:rcMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcProgress ru.alexbykov.sailesstat.MyApplication:rcProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcProgressColor ru.alexbykov.sailesstat.MyApplication:rcProgressColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcRadius ru.alexbykov.sailesstat.MyApplication:rcRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcReverse ru.alexbykov.sailesstat.MyApplication:rcReverse}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcSecondaryProgress ru.alexbykov.sailesstat.MyApplication:rcSecondaryProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundCornerProgress_rcSecondaryProgressColor ru.alexbykov.sailesstat.MyApplication:rcSecondaryProgressColor}</code></td><td></td></tr>
            </table>
            @see #RoundCornerProgress_rcBackgroundColor
            @see #RoundCornerProgress_rcBackgroundPadding
@@ -7854,7 +7854,7 @@ containing a value of this type.
             0x7f0100f3
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcBackgroundColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcBackgroundColor}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7865,11 +7865,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcBackgroundColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcBackgroundColor
         */
         public static final int RoundCornerProgress_rcBackgroundColor = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcBackgroundPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcBackgroundPadding}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7881,11 +7881,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcBackgroundPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcBackgroundPadding
         */
         public static final int RoundCornerProgress_rcBackgroundPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcMax}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcMax}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7895,11 +7895,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcMax
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcMax
         */
         public static final int RoundCornerProgress_rcMax = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcProgress}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcProgress}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7909,11 +7909,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcProgress
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcProgress
         */
         public static final int RoundCornerProgress_rcProgress = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcProgressColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcProgressColor}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7924,11 +7924,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcProgressColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcProgressColor
         */
         public static final int RoundCornerProgress_rcProgressColor = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcRadius}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcRadius}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7940,11 +7940,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcRadius
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcRadius
         */
         public static final int RoundCornerProgress_rcRadius = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcReverse}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcReverse}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7954,11 +7954,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcReverse
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcReverse
         */
         public static final int RoundCornerProgress_rcReverse = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcSecondaryProgress}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcSecondaryProgress}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7968,11 +7968,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcSecondaryProgress
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcSecondaryProgress
         */
         public static final int RoundCornerProgress_rcSecondaryProgress = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcSecondaryProgressColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcSecondaryProgressColor}
           attribute's value can be found in the {@link #RoundCornerProgress} array.
 
 
@@ -7983,7 +7983,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcSecondaryProgressColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcSecondaryProgressColor
         */
         public static final int RoundCornerProgress_rcSecondaryProgressColor = 7;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -7992,7 +7992,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ru.alexbykov.sailesstat:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ru.alexbykov.sailesstat.MyApplication:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8000,7 +8000,7 @@ containing a value of this type.
             0x7f0100f4
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8008,7 +8008,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.alexbykov.sailesstat:insetForeground
+          @attr name ru.alexbykov.sailesstat.MyApplication:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Params.
@@ -8017,7 +8017,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop ru.alexbykov.sailesstat:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop ru.alexbykov.sailesstat.MyApplication:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Params_behavior_overlapTop
          */
@@ -8025,7 +8025,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f5
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
 
 
@@ -8037,7 +8037,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:behavior_overlapTop
+          @attr name ru.alexbykov.sailesstat.MyApplication:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Params_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8050,19 +8050,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon ru.alexbykov.sailesstat:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon ru.alexbykov.sailesstat:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint ru.alexbykov.sailesstat:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon ru.alexbykov.sailesstat:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault ru.alexbykov.sailesstat:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout ru.alexbykov.sailesstat:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground ru.alexbykov.sailesstat:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint ru.alexbykov.sailesstat:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon ru.alexbykov.sailesstat:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon ru.alexbykov.sailesstat:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground ru.alexbykov.sailesstat:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout ru.alexbykov.sailesstat:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon ru.alexbykov.sailesstat:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon ru.alexbykov.sailesstat.MyApplication:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon ru.alexbykov.sailesstat.MyApplication:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint ru.alexbykov.sailesstat.MyApplication:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon ru.alexbykov.sailesstat.MyApplication:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault ru.alexbykov.sailesstat.MyApplication:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout ru.alexbykov.sailesstat.MyApplication:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground ru.alexbykov.sailesstat.MyApplication:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint ru.alexbykov.sailesstat.MyApplication:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon ru.alexbykov.sailesstat.MyApplication:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon ru.alexbykov.sailesstat.MyApplication:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground ru.alexbykov.sailesstat.MyApplication:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout ru.alexbykov.sailesstat.MyApplication:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon ru.alexbykov.sailesstat.MyApplication:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8114,27 +8114,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:closeIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:commitIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8144,21 +8144,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:defaultQueryHint
+          @attr name ru.alexbykov.sailesstat.MyApplication:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:goIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8168,31 +8168,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:iconifiedByDefault
+          @attr name ru.alexbykov.sailesstat.MyApplication:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#layout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:layout
+          @attr name ru.alexbykov.sailesstat.MyApplication:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:queryBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8202,57 +8202,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:queryHint
+          @attr name ru.alexbykov.sailesstat.MyApplication:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:searchHintIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:searchIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:submitBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:suggestionRowLayout
+          @attr name ru.alexbykov.sailesstat.MyApplication:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:voiceIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -8262,8 +8262,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation ru.alexbykov.sailesstat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ru.alexbykov.sailesstat:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation ru.alexbykov.sailesstat.MyApplication:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ru.alexbykov.sailesstat.MyApplication:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -8279,7 +8279,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8291,11 +8291,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:elevation
+          @attr name ru.alexbykov.sailesstat.MyApplication:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8307,7 +8307,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:maxActionInlineWidth
+          @attr name ru.alexbykov.sailesstat.MyApplication:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -8320,7 +8320,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme ru.alexbykov.sailesstat:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme ru.alexbykov.sailesstat.MyApplication:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8357,13 +8357,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:popupTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8375,13 +8375,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText ru.alexbykov.sailesstat:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack ru.alexbykov.sailesstat:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth ru.alexbykov.sailesstat:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding ru.alexbykov.sailesstat:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ru.alexbykov.sailesstat:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ru.alexbykov.sailesstat:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track ru.alexbykov.sailesstat:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText ru.alexbykov.sailesstat.MyApplication:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack ru.alexbykov.sailesstat.MyApplication:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth ru.alexbykov.sailesstat.MyApplication:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding ru.alexbykov.sailesstat.MyApplication:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ru.alexbykov.sailesstat.MyApplication:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ru.alexbykov.sailesstat.MyApplication:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track ru.alexbykov.sailesstat.MyApplication:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8418,7 +8418,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#showText}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8428,11 +8428,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:showText
+          @attr name ru.alexbykov.sailesstat.MyApplication:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8442,11 +8442,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:splitTrack
+          @attr name ru.alexbykov.sailesstat.MyApplication:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8458,11 +8458,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:switchMinWidth
+          @attr name ru.alexbykov.sailesstat.MyApplication:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8474,21 +8474,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:switchPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:switchTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8500,17 +8500,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:thumbTextPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#track}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:track
+          @attr name ru.alexbykov.sailesstat.MyApplication:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TabItem.
@@ -8554,22 +8554,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground ru.alexbykov.sailesstat:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart ru.alexbykov.sailesstat:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity ru.alexbykov.sailesstat:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor ru.alexbykov.sailesstat:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ru.alexbykov.sailesstat:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth ru.alexbykov.sailesstat:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth ru.alexbykov.sailesstat:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode ru.alexbykov.sailesstat:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding ru.alexbykov.sailesstat:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom ru.alexbykov.sailesstat:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd ru.alexbykov.sailesstat:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart ru.alexbykov.sailesstat:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop ru.alexbykov.sailesstat:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ru.alexbykov.sailesstat:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance ru.alexbykov.sailesstat:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor ru.alexbykov.sailesstat:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground ru.alexbykov.sailesstat.MyApplication:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart ru.alexbykov.sailesstat.MyApplication:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity ru.alexbykov.sailesstat.MyApplication:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor ru.alexbykov.sailesstat.MyApplication:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ru.alexbykov.sailesstat.MyApplication:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth ru.alexbykov.sailesstat.MyApplication:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth ru.alexbykov.sailesstat.MyApplication:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode ru.alexbykov.sailesstat.MyApplication:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding ru.alexbykov.sailesstat.MyApplication:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom ru.alexbykov.sailesstat.MyApplication:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd ru.alexbykov.sailesstat.MyApplication:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart ru.alexbykov.sailesstat.MyApplication:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop ru.alexbykov.sailesstat.MyApplication:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ru.alexbykov.sailesstat.MyApplication:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance ru.alexbykov.sailesstat.MyApplication:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor ru.alexbykov.sailesstat.MyApplication:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -8595,17 +8595,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010117, 0x7f010118, 0x7f010119, 0x7f01011a
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:tabBackground
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8617,11 +8617,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabContentStart
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8634,11 +8634,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:tabGravity
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8649,11 +8649,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabIndicatorColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8665,11 +8665,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabIndicatorHeight
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8681,11 +8681,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabMaxWidth
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8697,11 +8697,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabMinWidth
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8714,11 +8714,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:tabMode
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8730,11 +8730,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabPadding
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8746,11 +8746,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabPaddingBottom
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8762,11 +8762,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabPaddingEnd
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8778,11 +8778,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabPaddingStart
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8794,11 +8794,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabPaddingTop
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8809,21 +8809,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabSelectedTextColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:tabTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -8834,7 +8834,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:tabTextColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -8851,7 +8851,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps ru.alexbykov.sailesstat:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps ru.alexbykov.sailesstat.MyApplication:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -8917,14 +8917,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ru.alexbykov.sailesstat:textAllCaps
+          @attr name ru.alexbykov.sailesstat.MyApplication:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a TextInputLayout.
@@ -8935,15 +8935,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled ru.alexbykov.sailesstat:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength ru.alexbykov.sailesstat:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ru.alexbykov.sailesstat:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ru.alexbykov.sailesstat:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled ru.alexbykov.sailesstat:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ru.alexbykov.sailesstat:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ru.alexbykov.sailesstat:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled ru.alexbykov.sailesstat:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ru.alexbykov.sailesstat:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled ru.alexbykov.sailesstat.MyApplication:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength ru.alexbykov.sailesstat.MyApplication:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ru.alexbykov.sailesstat.MyApplication:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ru.alexbykov.sailesstat.MyApplication:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled ru.alexbykov.sailesstat.MyApplication:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ru.alexbykov.sailesstat.MyApplication:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ru.alexbykov.sailesstat.MyApplication:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled ru.alexbykov.sailesstat.MyApplication:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ru.alexbykov.sailesstat.MyApplication:hintTextAppearance}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -8975,7 +8975,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -8985,11 +8985,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:counterEnabled
+          @attr name ru.alexbykov.sailesstat.MyApplication:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -8999,31 +8999,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:counterMaxLength
+          @attr name ru.alexbykov.sailesstat.MyApplication:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:counterOverflowTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:counterTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9033,21 +9033,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:errorEnabled
+          @attr name ru.alexbykov.sailesstat.MyApplication:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:errorTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9057,11 +9057,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:hintAnimationEnabled
+          @attr name ru.alexbykov.sailesstat.MyApplication:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9071,17 +9071,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:hintEnabled
+          @attr name ru.alexbykov.sailesstat.MyApplication:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:hintTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /** Attributes that can be used with a TextRoundCornerProgress.
@@ -9090,10 +9090,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgress ru.alexbykov.sailesstat:rcTextProgress}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgressColor ru.alexbykov.sailesstat:rcTextProgressColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgressMargin ru.alexbykov.sailesstat:rcTextProgressMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgressSize ru.alexbykov.sailesstat:rcTextProgressSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgress ru.alexbykov.sailesstat.MyApplication:rcTextProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgressColor ru.alexbykov.sailesstat.MyApplication:rcTextProgressColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgressMargin ru.alexbykov.sailesstat.MyApplication:rcTextProgressMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextRoundCornerProgress_rcTextProgressSize ru.alexbykov.sailesstat.MyApplication:rcTextProgressSize}</code></td><td></td></tr>
            </table>
            @see #TextRoundCornerProgress_rcTextProgress
            @see #TextRoundCornerProgress_rcTextProgressColor
@@ -9104,7 +9104,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010124, 0x7f010125, 0x7f010126, 0x7f010127
         };
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcTextProgress}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcTextProgress}
           attribute's value can be found in the {@link #TextRoundCornerProgress} array.
 
 
@@ -9114,11 +9114,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcTextProgress
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcTextProgress
         */
         public static final int TextRoundCornerProgress_rcTextProgress = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcTextProgressColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcTextProgressColor}
           attribute's value can be found in the {@link #TextRoundCornerProgress} array.
 
 
@@ -9129,11 +9129,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcTextProgressColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcTextProgressColor
         */
         public static final int TextRoundCornerProgress_rcTextProgressColor = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcTextProgressMargin}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcTextProgressMargin}
           attribute's value can be found in the {@link #TextRoundCornerProgress} array.
 
 
@@ -9145,11 +9145,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcTextProgressMargin
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcTextProgressMargin
         */
         public static final int TextRoundCornerProgress_rcTextProgressMargin = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#rcTextProgressSize}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#rcTextProgressSize}
           attribute's value can be found in the {@link #TextRoundCornerProgress} array.
 
 
@@ -9161,7 +9161,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:rcTextProgressSize
+          @attr name ru.alexbykov.sailesstat.MyApplication:rcTextProgressSize
         */
         public static final int TextRoundCornerProgress_rcTextProgressSize = 1;
         /** Attributes that can be used with a Toolbar.
@@ -9172,29 +9172,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription ru.alexbykov.sailesstat:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon ru.alexbykov.sailesstat:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd ru.alexbykov.sailesstat:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft ru.alexbykov.sailesstat:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight ru.alexbykov.sailesstat:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart ru.alexbykov.sailesstat:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo ru.alexbykov.sailesstat:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription ru.alexbykov.sailesstat:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight ru.alexbykov.sailesstat:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription ru.alexbykov.sailesstat:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon ru.alexbykov.sailesstat:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme ru.alexbykov.sailesstat:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle ru.alexbykov.sailesstat:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ru.alexbykov.sailesstat:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor ru.alexbykov.sailesstat:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title ru.alexbykov.sailesstat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom ru.alexbykov.sailesstat:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd ru.alexbykov.sailesstat:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart ru.alexbykov.sailesstat:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop ru.alexbykov.sailesstat:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins ru.alexbykov.sailesstat:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance ru.alexbykov.sailesstat:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor ru.alexbykov.sailesstat:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription ru.alexbykov.sailesstat.MyApplication:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon ru.alexbykov.sailesstat.MyApplication:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd ru.alexbykov.sailesstat.MyApplication:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft ru.alexbykov.sailesstat.MyApplication:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight ru.alexbykov.sailesstat.MyApplication:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart ru.alexbykov.sailesstat.MyApplication:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo ru.alexbykov.sailesstat.MyApplication:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription ru.alexbykov.sailesstat.MyApplication:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight ru.alexbykov.sailesstat.MyApplication:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription ru.alexbykov.sailesstat.MyApplication:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon ru.alexbykov.sailesstat.MyApplication:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme ru.alexbykov.sailesstat.MyApplication:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle ru.alexbykov.sailesstat.MyApplication:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ru.alexbykov.sailesstat.MyApplication:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor ru.alexbykov.sailesstat.MyApplication:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title ru.alexbykov.sailesstat.MyApplication:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom ru.alexbykov.sailesstat.MyApplication:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd ru.alexbykov.sailesstat.MyApplication:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart ru.alexbykov.sailesstat.MyApplication:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop ru.alexbykov.sailesstat.MyApplication:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins ru.alexbykov.sailesstat.MyApplication:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance ru.alexbykov.sailesstat.MyApplication:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor ru.alexbykov.sailesstat.MyApplication:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9244,7 +9244,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9254,21 +9254,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:collapseContentDescription
+          @attr name ru.alexbykov.sailesstat.MyApplication:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:collapseIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9280,11 +9280,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetEnd
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9296,11 +9296,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetLeft
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9312,11 +9312,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetRight
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9328,21 +9328,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:contentInsetStart
+          @attr name ru.alexbykov.sailesstat.MyApplication:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#logo}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:logo
+          @attr name ru.alexbykov.sailesstat.MyApplication:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9352,11 +9352,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:logoDescription
+          @attr name ru.alexbykov.sailesstat.MyApplication:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9368,11 +9368,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:maxButtonHeight
+          @attr name ru.alexbykov.sailesstat.MyApplication:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9382,31 +9382,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:navigationContentDescription
+          @attr name ru.alexbykov.sailesstat.MyApplication:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:navigationIcon
+          @attr name ru.alexbykov.sailesstat.MyApplication:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:popupTheme
+          @attr name ru.alexbykov.sailesstat.MyApplication:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9416,21 +9416,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:subtitle
+          @attr name ru.alexbykov.sailesstat.MyApplication:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:subtitleTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9441,11 +9441,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:subtitleTextColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#title}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9455,11 +9455,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:title
+          @attr name ru.alexbykov.sailesstat.MyApplication:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9471,11 +9471,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:titleMarginBottom
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9487,11 +9487,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:titleMarginEnd
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9503,11 +9503,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:titleMarginStart
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9519,11 +9519,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:titleMarginTop
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9535,21 +9535,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:titleMargins
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:titleTextAppearance
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9560,7 +9560,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:titleTextColor
+          @attr name ru.alexbykov.sailesstat.MyApplication:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -9571,9 +9571,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd ru.alexbykov.sailesstat:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart ru.alexbykov.sailesstat:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme ru.alexbykov.sailesstat:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd ru.alexbykov.sailesstat.MyApplication:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart ru.alexbykov.sailesstat.MyApplication:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme ru.alexbykov.sailesstat.MyApplication:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -9598,7 +9598,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9610,11 +9610,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:paddingEnd
+          @attr name ru.alexbykov.sailesstat.MyApplication:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9626,17 +9626,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:paddingStart
+          @attr name ru.alexbykov.sailesstat.MyApplication:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#theme}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.alexbykov.sailesstat:theme
+          @attr name ru.alexbykov.sailesstat.MyApplication:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -9646,8 +9646,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ru.alexbykov.sailesstat:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ru.alexbykov.sailesstat:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ru.alexbykov.sailesstat.MyApplication:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ru.alexbykov.sailesstat.MyApplication:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -9663,7 +9663,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9674,11 +9674,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.alexbykov.sailesstat:backgroundTint
+          @attr name ru.alexbykov.sailesstat.MyApplication:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ru.alexbykov.sailesstat.MyApplication.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -9694,7 +9694,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ru.alexbykov.sailesstat:backgroundTintMode
+          @attr name ru.alexbykov.sailesstat.MyApplication:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

@@ -11,7 +11,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import io.realm.Realm;
 import ru.alexbykov.sailesstat.R;
 import ru.alexbykov.sailesstat.local.RealmHelper;
 import ru.alexbykov.sailesstat.remote.dto.ApiObject;
@@ -44,9 +43,17 @@ public class RemoteManagerPresenter {
 
     public void getManagersFromJSON() {
 
+
+        if (Cache.getManagers().isEmpty()) {
+            List<ManagerDTO> managersFromBd = new RealmHelper(context).getAllFromRealm(ManagerDTO.class);
+            Cache.setManagerDTO(managersFromBd);
+            Log.e("data cached from db", String.valueOf(managersFromBd.size()));
+        }
+
+
         ApiObject service = ServiceGenerator.createService(ApiObject.class);
-        Observable<List<ManagerDTO>> managers = service.getManagers();
-        managers
+        Observable<List<ManagerDTO>> observManagers = service.getManagers();
+        observManagers
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Subscriber<List<ManagerDTO>>() {
@@ -57,16 +64,10 @@ public class RemoteManagerPresenter {
 
                     @Override
                     public void onError(Throwable e) {
-
-
                         Log.e("OnError", e.getMessage());
-
-                        // if connection lost - we try get data from db
-                        //try it later here
-
                         Toast.makeText(context, R.string.toast_connection_false, Toast.LENGTH_SHORT).show();
+                        initRecyclerView(Cache.getManagers());
                         managersSwipe.setRefreshing(false);
-
                     }
 
                     @Override
@@ -77,11 +78,10 @@ public class RemoteManagerPresenter {
                         initRecyclerView(managers);
                         managersSwipe.setRefreshing(false);
 
-
                         //Copy to db
-                        /*RealmHelper helper = new RealmHelper(context);
+                        RealmHelper helper = new RealmHelper(context);
                         helper.copyToRealmOrUpdate(managers);
-                        Log.e("RealmCopy", "it's ok");*/
+                        Log.e("RealmCopy", "it's ok");
                     }
                 });
 

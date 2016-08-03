@@ -43,10 +43,8 @@ public class TabFragmentAdapter extends FragmentPagerAdapter {
     }
 
     public void initTabs(PageFather page1, PageFather page2) {
-
         tabs = new HashMap<>();
         tabs.put(0, page1);
         tabs.put(1, page2);
-
     }
 }

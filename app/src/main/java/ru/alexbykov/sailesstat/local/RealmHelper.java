@@ -22,17 +22,16 @@ public class RealmHelper {
         this.context = context;
 
         checkRealmConfiguration();
-
-
     }
 
     private void checkRealmConfiguration() {
 
-        if (Realm.getDefaultInstance() == null) {
-            RealmConfiguration rconf = new RealmConfiguration.Builder(context).build();
-            Realm.setDefaultConfiguration(rconf);
-        }
-        realm = Realm.getDefaultInstance();
+
+        RealmConfiguration rconfig = new RealmConfiguration.Builder(context).build();
+        Realm.setDefaultConfiguration(rconfig);
+
+        realm=Realm.getDefaultInstance();
+
     }
 
 

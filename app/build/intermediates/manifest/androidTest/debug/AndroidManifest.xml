@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.alexbykov.sailesstat.test">
+    package="ru.alexbykov.sailesstat.MyApplication.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="ru.alexbykov.sailesstat"
+                     android:targetPackage="ru.alexbykov.sailesstat.MyApplication"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for ru.alexbykov.sailesstat"/>
+                     android:label="Tests for ru.alexbykov.sailesstat.MyApplication"/>
 </manifest>
