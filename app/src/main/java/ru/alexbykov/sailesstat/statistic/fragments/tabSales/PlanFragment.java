@@ -133,7 +133,7 @@ public class PlanFragment extends PageFather {
 
     private void setLegendSettings() {
         Legend legend = costsPieChart.getLegend();
-        legend.setPosition(Legend.LegendPosition.RIGHT_OF_CHART);
+        legend.setPosition(Legend.LegendPosition.ABOVE_CHART_CENTER);
         legend.setTextSize(14);
     }
 

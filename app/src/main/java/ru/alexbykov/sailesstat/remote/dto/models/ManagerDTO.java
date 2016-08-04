@@ -12,7 +12,7 @@ import io.realm.annotations.PrimaryKey;
 /**
  * Created by Alexey on 12.07.2016.
  */
-public class ManagerDTO extends RealmObject  {
+public class ManagerDTO extends RealmObject {
 
 
     @Ignore
@@ -22,16 +22,37 @@ public class ManagerDTO extends RealmObject  {
 
     @PrimaryKey
     String name;
-    int plan;
 
+    int plan;
+    int quantityOfTenders;
+    int quantityOfMeetings;
 
     public ManagerDTO() {
 
     }
 
-    public ManagerDTO(String name, int plan) {
+    public ManagerDTO(String name, int plan, int quantityOfMeetings, int quantityOfTenders) {
         this.name = name;
         this.plan = plan;
+        this.quantityOfMeetings=quantityOfMeetings;
+        this.quantityOfTenders=quantityOfTenders;
+    }
+
+    public void setQuantityOfTenders(int quantityOfTenders) {
+        this.quantityOfTenders = quantityOfTenders;
+    }
+
+    public void setQuantityOfMeetings(int quantityOfMeetings) {
+        this.quantityOfMeetings = quantityOfMeetings;
+    }
+
+    public int getQuantityOfTenders() {
+
+        return quantityOfTenders;
+    }
+
+    public int getQuantityOfMeetings() {
+        return quantityOfMeetings;
     }
 
 

@@ -35,6 +35,7 @@
 
     <string name="toast_connection_false">Нет доступа к интеренту</string>
     <string name="plan_text_name">Выполнение плана</string>
+    <string name="covering_of_expenses">Покрытие расходов</string>
 
 
 </resources>

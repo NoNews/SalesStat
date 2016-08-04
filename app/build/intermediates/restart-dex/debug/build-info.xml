@@ -4,18 +4,18 @@
     api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="172512207889829"
+    timestamp="274148504193101"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="741" />
+        duration="759" />
     <task
         name="instant-run-dex"
-        duration="289" />
+        duration="245" />
     <task
         name="instant-run-transform"
-        duration="6" />
+        duration="7" />
     <task
         name="verifier"
         duration="1" />
@@ -24,32 +24,27 @@
         location="V:\android\SailesStat\app\build\intermediates\reload-dex\debug\classes.dex"
         type="RELOAD_DEX" />
 
-    <build timestamp="170911901851653" >
+    <build timestamp="273761712510059" >
         <artifact
             location="V:\android\SailesStat\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="172432070933482" >
-        <artifact
-            location="V:\android\SailesStat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-    </build>
     <build
-        timestamp="172459473786699"
+        timestamp="274067567434350"
         verifier="COMPATIBLE" >
         <artifact
-            location="V:\android\SailesStat\app\build\intermediates\builds\debug\172459473786699\classes.dex"
+            location="V:\android\SailesStat\app\build\intermediates\builds\debug\274067567434350\classes.dex"
             type="RELOAD_DEX" />
     </build>
     <build
-        timestamp="172481803899213"
+        timestamp="274089298864231"
         verifier="COMPATIBLE" >
         <artifact
-            location="V:\android\SailesStat\app\build\intermediates\builds\debug\172481803899213\classes.dex"
+            location="V:\android\SailesStat\app\build\intermediates\builds\debug\274089298864231\classes.dex"
             type="RELOAD_DEX" />
     </build>
     <build
-        timestamp="172512207889829"
+        timestamp="274148504193101"
         verifier="COMPATIBLE" >
         <artifact
             location="V:\android\SailesStat\app\build\intermediates\reload-dex\debug\classes.dex"

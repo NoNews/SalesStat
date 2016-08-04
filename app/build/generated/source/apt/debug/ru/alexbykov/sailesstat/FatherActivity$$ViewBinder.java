@@ -25,11 +25,11 @@ public class FatherActivity$$ViewBinder<T extends FatherActivity> implements Vie
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.toolbar = finder.findRequiredViewAsType(source, 2131493011, "field 'toolbar'", Toolbar.class);
-      target.navigationView = finder.findRequiredViewAsType(source, 2131492994, "field 'navigationView'", NavigationView.class);
+      target.toolbar = finder.findRequiredViewAsType(source, 2131493013, "field 'toolbar'", Toolbar.class);
+      target.navigationView = finder.findRequiredViewAsType(source, 2131492996, "field 'navigationView'", NavigationView.class);
       target.drawerLayout = finder.findRequiredViewAsType(source, 2131492969, "field 'drawerLayout'", DrawerLayout.class);
-      target.viewPager = finder.findRequiredViewAsType(source, 2131493010, "field 'viewPager'", ViewPager.class);
-      target.tabLayout = finder.findRequiredViewAsType(source, 2131493009, "field 'tabLayout'", TabLayout.class);
+      target.viewPager = finder.findRequiredViewAsType(source, 2131493012, "field 'viewPager'", ViewPager.class);
+      target.tabLayout = finder.findRequiredViewAsType(source, 2131493011, "field 'tabLayout'", TabLayout.class);
     }
 
     @Override
